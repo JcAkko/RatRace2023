@@ -829,40 +829,21 @@ GameObject:
   - component: {fileID: 350808998}
   - component: {fileID: 350809015}
   - component: {fileID: 350809008}
-  - component: {fileID: 350809019}
   - component: {fileID: 350809023}
   - component: {fileID: 350809025}
   - component: {fileID: 350809028}
   - component: {fileID: 350809029}
-  - component: {fileID: 350809032}
-  - component: {fileID: 350809031}
-  - component: {fileID: 350809030}
-  - component: {fileID: 350809033}
-  - component: {fileID: 350809035}
   - component: {fileID: 350809043}
   - component: {fileID: 350809042}
   - component: {fileID: 350809041}
   - component: {fileID: 350809040}
   - component: {fileID: 350809039}
-  - component: {fileID: 350809038}
-  - component: {fileID: 350809037}
-  - component: {fileID: 350809036}
   - component: {fileID: 350809044}
-  - component: {fileID: 350809051}
-  - component: {fileID: 350809049}
-  - component: {fileID: 350809050}
-  - component: {fileID: 350809048}
-  - component: {fileID: 350809045}
-  - component: {fileID: 350809047}
-  - component: {fileID: 350809046}
   - component: {fileID: 350809054}
-  - component: {fileID: 350809055}
   - component: {fileID: 350809057}
   - component: {fileID: 350809056}
-  - component: {fileID: 350809063}
   - component: {fileID: 350809062}
   - component: {fileID: 350809059}
-  - component: {fileID: 350809058}
   - component: {fileID: 350809066}
   - component: {fileID: 350809067}
   - component: {fileID: 350809082}
@@ -884,6 +865,7 @@ GameObject:
   - component: {fileID: 350809104}
   - component: {fileID: 350809109}
   - component: {fileID: 350809107}
+  - component: {fileID: 350809106}
   - component: {fileID: 350809105}
   - component: {fileID: 350809103}
   - component: {fileID: 350809113}
@@ -891,40 +873,36 @@ GameObject:
   - component: {fileID: 350809114}
   - component: {fileID: 350809116}
   - component: {fileID: 350809115}
+  - component: {fileID: 350809139}
+  - component: {fileID: 350809138}
+  - component: {fileID: 350809137}
+  - component: {fileID: 350809136}
+  - component: {fileID: 350809135}
+  - component: {fileID: 350809134}
+  - component: {fileID: 350809133}
+  - component: {fileID: 350809132}
+  - component: {fileID: 350809131}
+  - component: {fileID: 350809130}
+  - component: {fileID: 350809129}
+  - component: {fileID: 350809128}
+  - component: {fileID: 350809127}
+  - component: {fileID: 350809126}
+  - component: {fileID: 350809125}
+  - component: {fileID: 350809124}
+  - component: {fileID: 350809123}
+  - component: {fileID: 350809122}
+  - component: {fileID: 350809121}
   - component: {fileID: 350809146}
   - component: {fileID: 350809174}
   - component: {fileID: 350809173}
   - component: {fileID: 350809172}
   - component: {fileID: 350809171}
-  - component: {fileID: 350809165}
   - component: {fileID: 350809147}
-  - component: {fileID: 350809150}
-  - component: {fileID: 350809164}
-  - component: {fileID: 350809160}
-  - component: {fileID: 350809148}
-  - component: {fileID: 350809161}
-  - component: {fileID: 350809163}
-  - component: {fileID: 350809162}
-  - component: {fileID: 350809176}
-  - component: {fileID: 350809178}
-  - component: {fileID: 350809177}
-  - component: {fileID: 350809151}
-  - component: {fileID: 350809159}
   - component: {fileID: 350809152}
   - component: {fileID: 350809158}
   - component: {fileID: 350809157}
   - component: {fileID: 350809155}
   - component: {fileID: 350809153}
-  - component: {fileID: 350809143}
-  - component: {fileID: 350809179}
-  - component: {fileID: 350809175}
-  - component: {fileID: 350809145}
-  - component: {fileID: 350809144}
-  - component: {fileID: 350809141}
-  - component: {fileID: 350809182}
-  - component: {fileID: 350809180}
-  - component: {fileID: 350809140}
-  - component: {fileID: 350809142}
   - component: {fileID: 350809166}
   - component: {fileID: 350809170}
   - component: {fileID: 350809169}
@@ -932,13 +910,68 @@ GameObject:
   - component: {fileID: 350809167}
   - component: {fileID: 350809149}
   - component: {fileID: 350809154}
-  - component: {fileID: 350809181}
-  - component: {fileID: 350809186}
-  - component: {fileID: 350809185}
   - component: {fileID: 350809184}
-  - component: {fileID: 350809188}
+  - component: {fileID: 350809186}
   - component: {fileID: 350809187}
+  - component: {fileID: 350809188}
   - component: {fileID: 350809189}
+  - component: {fileID: 350809192}
+  - component: {fileID: 350809191}
+  - component: {fileID: 350809190}
+  - component: {fileID: 350809195}
+  - component: {fileID: 350809193}
+  - component: {fileID: 350809194}
+  - component: {fileID: 350809199}
+  - component: {fileID: 350809197}
+  - component: {fileID: 350809219}
+  - component: {fileID: 350809218}
+  - component: {fileID: 350809217}
+  - component: {fileID: 350809216}
+  - component: {fileID: 350809212}
+  - component: {fileID: 350809220}
+  - component: {fileID: 350809215}
+  - component: {fileID: 350809214}
+  - component: {fileID: 350809196}
+  - component: {fileID: 350809213}
+  - component: {fileID: 350809211}
+  - component: {fileID: 350809224}
+  - component: {fileID: 350809223}
+  - component: {fileID: 350809222}
+  - component: {fileID: 350809221}
+  - component: {fileID: 350809225}
+  - component: {fileID: 350809227}
+  - component: {fileID: 350809244}
+  - component: {fileID: 350809245}
+  - component: {fileID: 350809243}
+  - component: {fileID: 350809242}
+  - component: {fileID: 350809241}
+  - component: {fileID: 350809226}
+  - component: {fileID: 350809228}
+  - component: {fileID: 350809229}
+  - component: {fileID: 350809236}
+  - component: {fileID: 350809235}
+  - component: {fileID: 350809234}
+  - component: {fileID: 350809233}
+  - component: {fileID: 350809231}
+  - component: {fileID: 350809230}
+  - component: {fileID: 350809239}
+  - component: {fileID: 350809238}
+  - component: {fileID: 350809237}
+  - component: {fileID: 350809240}
+  - component: {fileID: 350809246}
+  - component: {fileID: 350809248}
+  - component: {fileID: 350809247}
+  - component: {fileID: 350809249}
+  - component: {fileID: 350809250}
+  - component: {fileID: 350809255}
+  - component: {fileID: 350809251}
+  - component: {fileID: 350809252}
+  - component: {fileID: 350809253}
+  - component: {fileID: 350809254}
+  - component: {fileID: 350809256}
+  - component: {fileID: 350809257}
+  - component: {fileID: 350809258}
+  - component: {fileID: 350809259}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -960,18 +993,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -193.28862
-    y: 66.75256
-    width: 82.8358
+    x: -167.28862
+    y: 76.02843
+    width: 81.03446
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 0
   blockName: News
   description: 
-  eventHandler: {fileID: 0}
+  eventHandler: {fileID: 350809259}
   commandList:
   - {fileID: 350808982}
+  - {fileID: 350809184}
   - {fileID: 350809028}
   - {fileID: 350808981}
   - {fileID: 350808985}
@@ -983,9 +1017,6 @@ MonoBehaviour:
   - {fileID: 350809044}
   - {fileID: 350809040}
   - {fileID: 350809039}
-  - {fileID: 350809038}
-  - {fileID: 350809037}
-  - {fileID: 350809036}
   - {fileID: 350809029}
   - {fileID: 350808986}
   - {fileID: 350808998}
@@ -1005,19 +1036,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -82.378716, y: 258.43842}
+  scrollPos: {x: 733.6737, y: 211.66833}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 461
-  zoom: 0.6700003
+  blockViewHeight: 557
+  zoom: 0.5800004
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 350809185}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -1086,7 +1116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: ...TV turns on ...
+  storyText: Month 02
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1113,8 +1143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 5
   indentLevel: 0
-  storyText: "\"I hope you\u2019re doing well today, both mentally and physically,
-    especially since there is still quite the pandemic out there!\""
+  storyText: "\"I hope you\u2019re doing well out there during these harsh times.\""
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1141,8 +1170,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: '"People are sick in bed and losing jobs and family members all around
-    the globe!"'
+  storyText: '"Over the course of the past month since the Ratville Rescue Plan was
+    released, the government received over ten thousand applications for this plan
+    across the country!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1169,7 +1199,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 0
-  storyText: '"Good morning! Citizens of Ratville!"'
+  storyText: '"Good morning citizens of Ratville!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1223,11 +1253,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: "However, one day I wish to open up my own shop, but that dream is,
-    like, so freaking far away.\r"
+  storyText: "And I have an income of about 30K per year. And um\u2026"
   description: 
-  character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1251,9 +1280,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 229.61703
-    y: 71.063835
-    width: 85.82088
+    x: -2.382965
+    y: 77.063835
+    width: 82.7586
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1265,14 +1294,23 @@ MonoBehaviour:
   - {fileID: 350809056}
   - {fileID: 350809057}
   - {fileID: 350808991}
+  - {fileID: 350809186}
+  - {fileID: 350809188}
+  - {fileID: 350809187}
   - {fileID: 350808990}
   - {fileID: 350808989}
   - {fileID: 350808987}
   - {fileID: 350808992}
-  - {fileID: 350809063}
+  - {fileID: 350809189}
+  - {fileID: 350809192}
+  - {fileID: 350809191}
+  - {fileID: 350809190}
+  - {fileID: 350809195}
   - {fileID: 350809062}
+  - {fileID: 350809194}
+  - {fileID: 350809193}
   - {fileID: 350809066}
-  - {fileID: 350809058}
+  - {fileID: 350809199}
   - {fileID: 350809059}
   suppressAllAutoSelections: 0
 --- !u!114 &350808989
@@ -1289,11 +1327,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: "So, I work for this local surfboard shop called Surfer\u2019s Stop
-    for a minimum wage job.\n"
+  storyText: 'Hey uh, hi! Um, so, I work for this programming company.
+
+'
   description: 
-  character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1317,7 +1356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 10
   indentLevel: 0
-  storyText: So, what issues are you facing at the moment?
+  storyText: Hello, how can I help you?
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
@@ -1344,7 +1383,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: Martin follows you to the office...
+  storyText: You have an appointment with a customer today
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1371,7 +1410,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 12
   indentLevel: 0
-  storyText: We could help you with that for sure, shall we take a look at your account?
+  storyText: "It\u2019s okay, take your time.\r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
@@ -1398,9 +1437,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 337.86365
-    y: 71.276634
-    width: 138.05966
+    x: 316.58496
+    y: 82.03072
+    width: 134.4827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1412,7 +1451,6 @@ MonoBehaviour:
   - {fileID: 350809082}
   - {fileID: 350809067}
   - {fileID: 350809083}
-  - {fileID: 350809019}
   - {fileID: 350809015}
   - {fileID: 350809103}
   suppressAllAutoSelections: 0
@@ -1431,7 +1469,7 @@ MonoBehaviour:
   itemId: 17
   indentLevel: 0
   targetFlowchart: {fileID: 0}
-  targetBlock: {fileID: 350809032}
+  targetBlock: {fileID: 350808988}
   startLabel:
     stringRef: {fileID: 0}
     stringVal: 
@@ -1480,14 +1518,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 627.8145
     y: -113.76589
-    width: 233.582
+    width: 240
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 26
-  blockName: Reduce Expense & Save Money
+  blockName: Cut unnecessary expense and buy the house
   description: 
-  eventHandler: {fileID: 350809189}
+  eventHandler: {fileID: 0}
   commandList:
   - {fileID: 350809102}
   - {fileID: 350809101}
@@ -1512,38 +1550,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: Based on Martin's financial report, please choose the best advise for
-    him
+  storyText: Based on Beatrice's financial report, please choose the best advise
+    for her
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809019
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 40
-  indentLevel: 0
-  storyText: Okay, let me think about some advise for you
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1567,7 +1578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 44
   indentLevel: 0
-  storyText: Martin may cut on some of his monthly expenses to save more money
+  storyText: Help Beatrice cut some of her expenses to pay for the mortgage
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1594,7 +1605,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 48
   indentLevel: 0
-  text: Review Martin's financial report
+  text: Review Beatrice's financial report
   description: 
   targetBlock: {fileID: 350809086}
   hideIfVisited: 0
@@ -1639,220 +1650,6 @@ MonoBehaviour:
   images:
   - {fileID: 1454637844}
   sprite: {fileID: 21300000, guid: dc115a22ce2aa1f419d467c4b5d89945, type: 3}
---- !u!114 &350809030
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 58
-  indentLevel: 0
-  storyText: Customer comes in
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809031
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 57
-  indentLevel: 0
-  targetFlowchart: {fileID: 0}
-  targetBlock: {fileID: 350808988}
-  startLabel:
-    stringRef: {fileID: 0}
-    stringVal: 
-  startIndex: 0
-  callMode: 0
---- !u!114 &350809032
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: 3.1663246
-    y: 70.4269
-    width: 129.10443
-    height: 40
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  itemId: 55
-  blockName: FrontCounter
-  description: 
-  eventHandler: {fileID: 0}
-  commandList:
-  - {fileID: 350809033}
-  - {fileID: 350809055}
-  - {fileID: 350809030}
-  - {fileID: 350809035}
-  - {fileID: 350809051}
-  - {fileID: 350809050}
-  - {fileID: 350809049}
-  - {fileID: 350809048}
-  - {fileID: 350809045}
-  - {fileID: 350809047}
-  - {fileID: 350809046}
-  - {fileID: 350809031}
-  suppressAllAutoSelections: 0
---- !u!114 &350809033
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 60
-  indentLevel: 0
-  images:
-  - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 356a4ae11bf5f0944bb2aef1980020a5, type: 3}
---- !u!114 &350809035
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 61
-  indentLevel: 0
-  storyText: Hey, do you, like, work here?
-  description: 
-  character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809036
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 69
-  indentLevel: 0
-  storyText: '"Anyways, my name is Coco, and I hope you have a great rest of your
-    day!"'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809037
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 68
-  indentLevel: 0
-  storyText: '"All of this is to help support people who were negatively affected
-    by this pandemic"'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809038
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 67
-  indentLevel: 0
-  storyText: '"All eligible citizens who lost their jobs due to LOSIL-45 will receive
-    an extra payment for the next 9 months"'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &350809039
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -1867,8 +1664,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 66
   indentLevel: 0
-  storyText: '"Along with that, the Rat house announced the Ratville Rescue Plan
-    with $350 billion in emergency funding"'
+  storyText: '"Anyways, my name is Coco, and have a great rest of your day!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1895,8 +1691,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 65
   indentLevel: 0
-  storyText: '"The government is hoping that this policy will help companies and
-    small businesses to survive the harsh financial environment"'
+  storyText: '"Families and investors are now starting to take advantage of such
+    a policy."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1923,7 +1719,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 64
   indentLevel: 0
-  storyText: '"What does this mean?"'
+  storyText: '"Along with that, since the Federal Reserve lowered the interest rate
+    to 0% last month."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1950,7 +1747,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 63
   indentLevel: 0
-  storyText: '"The Federal Reserve just lowered the interest rate to 0%!"'
+  storyText: '"The Federal Reserve decided to start printing money with the push
+    of a button to support the Ratville Rescue Plan! Would you look at that!"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1977,7 +1775,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: '"However, there may still be some good news to all of this"'
+  storyText: '"In order to have enough money to support such a massive amount of
+    applications"'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2004,196 +1803,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: '"Well, companies or small businesses will be able to borrow money from
-    the bank with zero extra cost!"'
+  storyText: '"We have seen a huge increase in housing prices in Ratville to make
+    sure that people can still earn a good amount of money from selling houses."'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809045
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 75
-  indentLevel: 0
-  storyText: "Yeah, why not. I\u2019m willing to try new things, it\u2019s good for
-    the soul."
-  description: 
-  character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809046
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 78
-  indentLevel: 0
-  duration: 1.5
-  targetAlpha: 1
-  waitUntilFinished: 1
-  fadeColor: {r: 0, g: 0, b: 0, a: 1}
-  fadeTexture: {fileID: 0}
-  fadeTweenType: 4
---- !u!114 &350809047
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 77
-  indentLevel: 0
-  storyText: "Alright, let\u2019s go to my office. \r\n"
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809048
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 74
-  indentLevel: 0
-  storyText: "You think you\u2019d be willing to hear that as well?"
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809049
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 72
-  indentLevel: 0
-  storyText: Hahaha! No problem, I'm willing to listen, and I might have some suggestions
-    for you.
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809050
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 73
-  indentLevel: 0
-  storyText: Nah, but I was just wondering if there was anyone to talk to here so
-    I could, like, vent out my financial struggles
-  description: 
-  character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809051
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 71
-  indentLevel: 0
-  storyText: Yes I do, how can I help you?
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2219,26 +1833,6 @@ MonoBehaviour:
   indentLevel: 0
   duration: 1.5
   targetAlpha: 1
-  waitUntilFinished: 1
-  fadeColor: {r: 0, g: 0, b: 0, a: 1}
-  fadeTexture: {fileID: 0}
-  fadeTweenType: 4
---- !u!114 &350809055
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 80
-  indentLevel: 0
-  duration: 1.5
-  targetAlpha: 0
   waitUntilFinished: 1
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
@@ -2280,33 +1874,6 @@ MonoBehaviour:
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
   fadeTweenType: 4
---- !u!114 &350809058
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 88
-  indentLevel: 0
-  storyText: Martin's Financial Report
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &350809059
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2323,7 +1890,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Reading Finished
   description: save cash
-  targetBlock: {fileID: 350808994}
+  targetBlock: {fileID: 350809197}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -2346,37 +1913,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 84
   indentLevel: 0
-  storyText: "Please insert your debit card here and let\u2019s take a look\u2026"
+  storyText: 'Sure, we could help you with that for sure, shall we take a look at
+    your account?
+
+'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809063
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 83
-  indentLevel: 0
-  storyText: Sure man.
-  description: 
-  character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2496,7 +2039,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 966.5035
     y: -115.74002
-    width: 141.04474
+    width: 134.4827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2586,7 +2129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 133
   indentLevel: 0
-  storyText: "Martin spends too much on Surfing equipment.\r"
+  storyText: 'By cutting her digital equipment spending: $500'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2615,7 +2158,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.8134
     y: -55.14962
-    width: 129.10443
+    width: 124.13788
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2823,7 +2366,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 501.16177
     y: 67.152954
-    width: 97.76117
+    width: 94.82756
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2834,6 +2377,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 350809109}
   - {fileID: 350809107}
+  - {fileID: 350809106}
   - {fileID: 350809105}
   suppressAllAutoSelections: 0
 --- !u!114 &350809105
@@ -2850,9 +2394,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 164
   indentLevel: 0
-  text: Invest in Stock Market
+  text: Buy Mutual Fund
   description: 
   targetBlock: {fileID: 350809146}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809106
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 163
+  indentLevel: 0
+  text: Cut unnecessary expense, buy the house and sell one year later
+  description: 
+  targetBlock: {fileID: 350809139}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -2875,7 +2444,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 162
   indentLevel: 0
-  text: Reduce Expense & Save Money
+  text: Cut unnecessary expense and buy the house
   description: 
   targetBlock: {fileID: 350809008}
   hideIfVisited: 0
@@ -2917,7 +2486,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 168
   indentLevel: 0
-  storyText: Which is $9000 per year
+  storyText: ' which is enough for the monthly mortgage.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2944,7 +2513,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 167
   indentLevel: 0
-  storyText: By cutting the surfing spent by 15%, Martin can save up to $750/month
+  storyText: Beatrice can save up to $500 + $900 = $1,400 per month
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2973,7 +2542,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 988.69745
     y: -180.45636
-    width: 103.73132
+    width: 99.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2982,9 +2551,15 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 350809225}
+  - {fileID: 350809250}
   - {fileID: 350809116}
+  - {fileID: 350809249}
+  - {fileID: 350809224}
+  - {fileID: 350809223}
+  - {fileID: 350809222}
+  - {fileID: 350809221}
   - {fileID: 350809115}
-  - {fileID: 350809186}
   suppressAllAutoSelections: 0
 --- !u!114 &350809115
 MonoBehaviour:
@@ -3025,7 +2600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 175
   indentLevel: 0
-  storyText: In progress...
+  storyText: One year later...
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3038,7 +2613,32 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809140
+--- !u!114 &350809121
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 217
+  indentLevel: 0
+  text: Back
+  description: 
+  targetBlock: {fileID: 350809139}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809122
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3050,10 +2650,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 303
+  itemId: 216
   indentLevel: 0
-  storyText: Meaning that there is a chance that their prices might reach 0 and you
-    will lose a lot money (results from potential scams).
+  storyText: "Beatrice can save up to $500 + $900 = $1,400 per month, which is enough
+    for the mortgage.\r"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3066,7 +2666,62 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809141
+--- !u!114 &350809123
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 215
+  indentLevel: 0
+  storyText: The house price has a potential to become even higher by the end of
+    the year due to 0% interest rate
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809124
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 214
+  indentLevel: 0
+  storyText: 'By cutting the digital equipment spending: $500'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809125
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3080,24 +2735,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1220.0891
-    y: 390.7446
-    width: 130.59698
+    x: 991.3665
+    y: 141.6588
+    width: 125.862015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 323
-  blockName: Option03 Hint
+  itemId: 226
+  blockName: Option02 Hint
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 350809182}
-  - {fileID: 350809181}
-  - {fileID: 350809180}
-  - {fileID: 350809140}
-  - {fileID: 350809142}
+  - {fileID: 350809124}
+  - {fileID: 350809122}
+  - {fileID: 350809123}
+  - {fileID: 350809238}
+  - {fileID: 350809237}
+  - {fileID: 350809121}
   suppressAllAutoSelections: 0
---- !u!114 &350809142
+--- !u!114 &350809126
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3109,11 +2765,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 304
+  itemId: 207
   indentLevel: 0
   text: Back
   description: 
-  targetBlock: {fileID: 350809143}
+  targetBlock: {fileID: 350809139}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -3122,7 +2778,64 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &350809143
+--- !u!114 &350809127
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 206
+  indentLevel: 0
+  duration: 1
+  targetAlpha: 0
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &350809128
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 205
+  indentLevel: 0
+  images:
+  - {fileID: 1454637844}
+  sprite: {fileID: 21300000, guid: d456bd5ccbaf1734d9c4bcfc3e84ce99, type: 3}
+--- !u!114 &350809129
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 204
+  indentLevel: 0
+  duration: 1
+  targetAlpha: 1
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &350809130
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3136,23 +2849,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 947.28485
-    y: 348.5169
-    width: 149.99995
+    x: 971.04517
+    y: 81.474594
+    width: 151.72406
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 322
-  blockName: Metaverse Stock
+  itemId: 225
+  blockName: Expense Report 02
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 350809179}
-  - {fileID: 350809144}
-  - {fileID: 350809175}
-  - {fileID: 350809145}
+  - {fileID: 350809129}
+  - {fileID: 350809128}
+  - {fileID: 350809127}
+  - {fileID: 350809126}
   suppressAllAutoSelections: 0
---- !u!114 &350809144
+--- !u!114 &350809131
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3164,11 +2877,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 294
+  itemId: 197
   indentLevel: 0
-  text: Hint
+  text: Hints
   description: 
-  targetBlock: {fileID: 350809141}
+  targetBlock: {fileID: 350809125}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -3177,7 +2890,7 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &350809145
+--- !u!114 &350809132
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3189,11 +2902,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 293
+  itemId: 196
   indentLevel: 0
-  text: Back
+  text: Confirm
   description: 
-  targetBlock: {fileID: 350809146}
+  targetBlock: {fileID: 350809227}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -3202,6 +2915,175 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
+--- !u!114 &350809133
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 195
+  indentLevel: 0
+  text: Back to Options
+  description: 
+  targetBlock: {fileID: 350809104}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809134
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 194
+  indentLevel: 0
+  text: Review Beatrice's financial report
+  description: 
+  targetBlock: {fileID: 350809130}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809135
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 193
+  indentLevel: 0
+  storyText: Help Beatrice cut some of her expenses to pay for the mortgage
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809136
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 192
+  indentLevel: 0
+  duration: 0.5
+  targetAlpha: 0
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &350809137
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 191
+  indentLevel: 0
+  images:
+  - {fileID: 1454637844}
+  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+--- !u!114 &350809138
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 190
+  indentLevel: 0
+  duration: 0.5
+  targetAlpha: 1
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &350809139
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 649.9422
+    y: 68.59576
+    width: 240
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 224
+  blockName: Cut unnecessary expense, buy the house and sell one year later
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 350809138}
+  - {fileID: 350809137}
+  - {fileID: 350809136}
+  - {fileID: 350809135}
+  - {fileID: 350809239}
+  - {fileID: 350809134}
+  - {fileID: 350809131}
+  - {fileID: 350809132}
+  - {fileID: 350809133}
+  suppressAllAutoSelections: 0
 --- !u!114 &350809146
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3216,14 +3098,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 652.7306
-    y: 216.04727
-    width: 142.53726
+    x: 717.8339
+    y: 369.8401
+    width: 144.82751
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 252
-  blockName: Purchase Stock
+  blockName: Buy Mutual Fund
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -3231,9 +3113,11 @@ MonoBehaviour:
   - {fileID: 350809173}
   - {fileID: 350809172}
   - {fileID: 350809171}
-  - {fileID: 350809165}
+  - {fileID: 350809255}
+  - {fileID: 350809254}
   - {fileID: 350809149}
-  - {fileID: 350809148}
+  - {fileID: 350809252}
+  - {fileID: 350809251}
   - {fileID: 350809147}
   suppressAllAutoSelections: 0
 --- !u!114 &350809147
@@ -3261,31 +3145,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &350809148
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 254
-  indentLevel: 0
-  text: Buy Meta Verse related stock
-  description: 
-  targetBlock: {fileID: 350809143}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
 --- !u!114 &350809149
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3300,64 +3159,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 315
   indentLevel: 0
-  text: Buy medication and retail stocks
+  text: Review Beatrice's financial report
   description: 
-  targetBlock: {fileID: 350809150}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809150
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: 931.1521
-    y: 87.344406
-    width: 179.8507
-    height: 40
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  itemId: 253
-  blockName: Medical & Retail Stock
-  description: 
-  eventHandler: {fileID: 0}
-  commandList:
-  - {fileID: 350809164}
-  - {fileID: 350809151}
-  - {fileID: 350809160}
-  - {fileID: 350809159}
-  suppressAllAutoSelections: 0
---- !u!114 &350809151
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 273
-  indentLevel: 0
-  text: Hint
-  description: 
-  targetBlock: {fileID: 350809152}
+  targetBlock: {fileID: 350809166}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -3380,14 +3184,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1205.6002
-    y: 130.70508
-    width: 130.59698
+    x: 1122.2144
+    y: 403.2364
+    width: 127.58615
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 321
-  blockName: Option02 Hint
+  blockName: Option03 Hint
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -3395,6 +3199,7 @@ MonoBehaviour:
   - {fileID: 350809157}
   - {fileID: 350809155}
   - {fileID: 350809154}
+  - {fileID: 350809253}
   - {fileID: 350809153}
   suppressAllAutoSelections: 0
 --- !u!114 &350809153
@@ -3413,7 +3218,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Back
   description: 
-  targetBlock: {fileID: 350809150}
+  targetBlock: {fileID: 350809146}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -3436,8 +3241,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 317
   indentLevel: 0
-  storyText: These stocks are the least affected by LOSIL-45 as a result, and could
-    be a helpful asset in earning money.
+  storyText: 'How mutual funds perform highly depends on the current financial environment
+    of the world. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3491,7 +3296,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 282
   indentLevel: 0
-  storyText: "Such as luxuries or cars. \r"
+  storyText: 'There is a chance that this manager will not perform well.
+
+'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3518,10 +3325,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 281
   indentLevel: 0
-  storyText: 'Under a bad financial environment, people earn less money so they are
-    more likely to cut their expenses on unnecessary things.
-
-'
+  storyText: "Mutual funds are when you hire another fund manager to make financial
+    investments for you. \n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3534,189 +3339,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809159
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 274
-  indentLevel: 0
-  text: Back
-  description: 
-  targetBlock: {fileID: 350809146}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809160
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 251
-  indentLevel: 0
-  text: Confirm
-  description: 
-  targetBlock: {fileID: 350809161}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809161
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: 1228.8591
-    y: 65.01337
-    width: 105.223854
-    height: 40
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  itemId: 319
-  blockName: Ending02
-  description: 
-  eventHandler: {fileID: 0}
-  commandList:
-  - {fileID: 350809163}
-  - {fileID: 350809162}
-  - {fileID: 350809188}
-  suppressAllAutoSelections: 0
---- !u!114 &350809162
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 266
-  indentLevel: 0
-  text: Restart
-  description: 
-  targetBlock: {fileID: 350808978}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809163
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 265
-  indentLevel: 0
-  storyText: In progress...
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809164
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 250
-  indentLevel: 0
-  storyText: Invest in healthcare and retail related stocks
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809165
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 242
-  indentLevel: 0
-  text: Review Martin's financial report
-  description: 
-  targetBlock: {fileID: 350809166}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
 --- !u!114 &350809166
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3731,9 +3353,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 719.5129
-    y: 85.276276
-    width: 158.95517
+    x: 1106.9996
+    y: 488.3976
+    width: 153.44821
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3843,7 +3465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 241
   indentLevel: 0
-  storyText: Invest in Stock Market
+  storyText: Since Beatrice do not have enough money for the monthly Mortgage
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3913,7 +3535,7 @@ MonoBehaviour:
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
   fadeTweenType: 4
---- !u!114 &350809175
+--- !u!114 &350809184
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3922,23 +3544,329 @@ MonoBehaviour:
   m_GameObject: {fileID: 350808976}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 292
+  itemId: 325
   indentLevel: 0
-  text: Confirm
+  storyText: ...TV turns on ...
   description: 
-  targetBlock: {fileID: 350809176}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809176
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809186
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 326
+  indentLevel: 0
+  storyText: Her name is Beatrice.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809187
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 327
+  indentLevel: 0
+  storyText: Beatrice shows up..
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809188
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 328
+  indentLevel: 0
+  storyText: ......
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809189
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 329
+  indentLevel: 0
+  storyText: ' I live in a condo, but I have this, you know, big dream to purchase
+    a house of my own.'
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809190
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 332
+  indentLevel: 0
+  storyText: I heard about the 0% interest rate policy and wanted to apply for a
+    mortgage here
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809191
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 331
+  indentLevel: 0
+  storyText: 'Finally, I have saved enough money right now to purchase a house to
+    pay for the down payment. '
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809192
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 330
+  indentLevel: 0
+  storyText: "The house I wish to buy costs\u2026let\u2019s see\u2026500k and,"
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809193
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 335
+  indentLevel: 0
+  storyText: "Please insert your debit card here and let\u2019s take a look\u2026"
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809194
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 336
+  indentLevel: 0
+  storyText: "Oh, uh, sure yeah.\r"
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809195
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 333
+  indentLevel: 0
+  storyText: 'Can you help with that?
+
+'
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809196
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 385
+  indentLevel: 0
+  storyText: 'Which means you need to pay $1,300 back to the bank monthly.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809197
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3952,22 +3880,513 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1231.6008
-    y: 312.8853
-    width: 105.223854
+    x: 155.61703
+    y: 74.06384
+    width: 96.5517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 320
-  blockName: Ending03
+  itemId: 442
+  blockName: Office02
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 350809178}
-  - {fileID: 350809177}
-  - {fileID: 350809187}
+  - {fileID: 350809220}
+  - {fileID: 350809219}
+  - {fileID: 350809218}
+  - {fileID: 350809217}
+  - {fileID: 350809216}
+  - {fileID: 350809215}
+  - {fileID: 350809214}
+  - {fileID: 350809196}
+  - {fileID: 350809213}
+  - {fileID: 350809212}
+  - {fileID: 350809211}
+  - {fileID: 350809258}
   suppressAllAutoSelections: 0
---- !u!114 &350809177
+--- !u!114 &350809199
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 337
+  indentLevel: 0
+  storyText: Beatrice's Financial Report
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809211
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 387
+  indentLevel: 0
+  storyText: But, here is some advice for you.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809212
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 369
+  indentLevel: 0
+  storyText: you do not have enough money to pay the monthly mortgage.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809213
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 386
+  indentLevel: 0
+  storyText: 'However, according to your current financial report,
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809214
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 384
+  indentLevel: 0
+  storyText: 'You need to pay 16k/year back to the bank.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809215
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 383
+  indentLevel: 0
+  storyText: 'With a 25 year mortgage plan and 0% interest rate,
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809216
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 368
+  indentLevel: 0
+  storyText: 'If you wish to buy a 500k house with 100k down payment, you need a
+    400k mortgage.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809217
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 367
+  indentLevel: 0
+  storyText: So, here's some of my observation.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809218
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 362
+  indentLevel: 0
+  duration: 1.5
+  targetAlpha: 0
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &350809219
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82e4c082f762243f6943909a4272096d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 361
+  indentLevel: 0
+  images:
+  - {fileID: 1454637844}
+  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+--- !u!114 &350809220
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 207aecf668a0345388087ccf522f9957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 382
+  indentLevel: 0
+  duration: 0
+  targetAlpha: 1.5
+  waitUntilFinished: 1
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeTexture: {fileID: 0}
+  fadeTweenType: 4
+--- !u!114 &350809221
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 391
+  indentLevel: 0
+  storyText: Beatrice Neutral Ending unlocked.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809222
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 390
+  indentLevel: 0
+  storyText: for she now has to spend 16K yearly
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809223
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 389
+  indentLevel: 0
+  storyText: But she has to be extra careful with her money spending during the next
+    20 years
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809224
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 388
+  indentLevel: 0
+  storyText: Her big dream came true
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809225
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 392
+  indentLevel: 0
+  storyText: "Okay, um, thanks for your advice.\r"
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809226
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 407
+  indentLevel: 0
+  storyText: Beatrice Good Ending unlocked.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809227
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 988.69745
+    y: 17.54364
+    width: 101.724106
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 443
+  blockName: Ending02
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 350809245}
+  - {fileID: 350809248}
+  - {fileID: 350809247}
+  - {fileID: 350809246}
+  - {fileID: 350809244}
+  - {fileID: 350809243}
+  - {fileID: 350809242}
+  - {fileID: 350809241}
+  - {fileID: 350809240}
+  - {fileID: 350809226}
+  - {fileID: 350809228}
+  suppressAllAutoSelections: 0
+--- !u!114 &350809228
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3979,7 +4398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 272
+  itemId: 408
   indentLevel: 0
   text: Restart
   description: 
@@ -3992,7 +4411,66 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &350809178
+--- !u!114 &350809229
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 1123.7761
+    y: 330.64294
+    width: 106.896515
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 444
+  blockName: Ending 03
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 350809236}
+  - {fileID: 350809257}
+  - {fileID: 350809256}
+  - {fileID: 350809235}
+  - {fileID: 350809234}
+  - {fileID: 350809233}
+  - {fileID: 350809231}
+  - {fileID: 350809230}
+  suppressAllAutoSelections: 0
+--- !u!114 &350809230
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 424
+  indentLevel: 0
+  text: Restart
+  description: 
+  targetBlock: {fileID: 350808978}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809231
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4004,9 +4482,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 271
+  itemId: 423
   indentLevel: 0
-  storyText: In progress...
+  storyText: Beatrice Bad Ending unlocked.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4019,7 +4497,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809179
+--- !u!114 &350809233
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4031,36 +4509,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 291
+  itemId: 421
   indentLevel: 0
-  storyText: Invest in metaverse related stocks
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809180
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 302
-  indentLevel: 0
-  storyText: 'Howeverm these assets are not regulated by the government at all.
+  storyText: 'Beatrice lost 10k at the end of the year.
 
 '
   description: 
@@ -4075,7 +4526,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809181
+--- !u!114 &350809234
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4087,10 +4538,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 318
+  itemId: 420
   indentLevel: 0
-  storyText: It's related products have the potential to go up faster than traditional
-    stocks such as medical and retail stocks.
+  storyText: ' As a result, the stock market crashed and the fund manager was unable
+    to make investments that actually paid off.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4103,7 +4554,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809182
+--- !u!114 &350809235
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4115,10 +4566,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 301
+  itemId: 419
   indentLevel: 0
-  storyText: 'The concept of metaverse has been a hot topic for the past few years.
-    A lot millionaires were created by trading cryptos and NFTS. '
+  storyText: The market is negatively impacted by LOSIL-45, resulting in small businesses
+    shutting down and people losing their jobs
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -4131,7 +4582,7 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809184
+--- !u!114 &350809236
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4140,119 +4591,616 @@ MonoBehaviour:
   m_GameObject: {fileID: 350808976}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00d03ae0919f04264b018681ed534177, type: 3}
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 327
+  itemId: 418
   indentLevel: 0
-  _sceneName:
+  storyText: 'Okay, um, thanks for your advice.
+
+'
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809237
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 427
+  indentLevel: 0
+  storyText: Selling the house one year later could take advantage of the current
+    government policy.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809238
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 426
+  indentLevel: 0
+  storyText: However, such a policy will not last forever.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809239
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 425
+  indentLevel: 0
+  storyText: But sale the house one year later
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809240
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 428
+  indentLevel: 0
+  storyText: She kept 150K out of the 650K.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809241
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 406
+  indentLevel: 0
+  storyText: After Beatrice paid the $500k mortgage back to the bank with the money
+    she earned from selling.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809242
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 405
+  indentLevel: 0
+  storyText: Beatrice sold her house with a price of $650K
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809243
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 404
+  indentLevel: 0
+  storyText: The price of her house increased another 30% at the end of the year
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809244
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 402
+  indentLevel: 0
+  storyText: One year later...
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809245
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 403
+  indentLevel: 0
+  storyText: "Okay, um, thanks for your advice.\r"
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809246
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 429
+  indentLevel: 0
+  storyText: Beatrice cut her expenses and bought the house.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809247
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 431
+  indentLevel: 0
+  storyText: ... ...
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809248
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 430
+  indentLevel: 0
+  storyText: No worries. Take care.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809249
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 432
+  indentLevel: 0
+  storyText: Beatrice cut her expenses and moved into her new house.
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809250
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 433
+  indentLevel: 0
+  storyText: No worries. Take care.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809251
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 436
+  indentLevel: 0
+  text: confirm
+  description: 
+  targetBlock: {fileID: 350809229}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809252
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 437
+  indentLevel: 0
+  text: Hint
+  description: 
+  targetBlock: {fileID: 350809152}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809253
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 438
+  indentLevel: 0
+  storyText: "Along with that, the fund manager that one could invest in can use
+    50% stock markets and 50% other financial assets.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809254
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 439
+  indentLevel: 0
+  storyText: "The mutual fund has an potential return of -10% to 10%\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809255
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 434
+  indentLevel: 0
+  storyText: She can use her down payment to invest in mutual fund to earn some money
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809256
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 440
+  indentLevel: 0
+  storyText: One year later...
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809257
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 441
+  indentLevel: 0
+  storyText: 'No worries. Take care.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809258
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 445
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 350808994}
+  startLabel:
     stringRef: {fileID: 0}
-    stringVal: RatRace_Month02
-  loadingImage: {fileID: 0}
-  sceneNameOLD: 
---- !u!114 &350809185
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: 1583.7793
-    y: 88.514366
-    width: 149.99995
-    height: 40
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  itemId: 326
-  blockName: Load Next Scene
-  description: 
-  eventHandler: {fileID: 0}
-  commandList:
-  - {fileID: 350809184}
-  suppressAllAutoSelections: 0
---- !u!114 &350809186
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 325
-  indentLevel: 0
-  text: Next Level
-  description: 
-  targetBlock: {fileID: 350809185}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809187
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 329
-  indentLevel: 0
-  text: Next Level
-  description: 
-  targetBlock: {fileID: 350809185}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809188
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 328
-  indentLevel: 0
-  text: Next Level
-  description: 
-  targetBlock: {fileID: 350809185}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809189
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &350809259
 MonoBehaviour:
   m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4264,7 +5212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentBlock: {fileID: 350809008}
+  parentBlock: {fileID: 350808978}
   suppressBlockAutoSelect: 0
   waitForFrames: 1
 --- !u!1 &503377594
@@ -4494,58 +5442,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &584180481
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 584180483}
-  - component: {fileID: 584180482}
-  m_Layer: 0
-  m_Name: Martin
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &584180482
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 584180481}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nameText: Martin
-  nameColor: {r: 0.9150943, g: 0.7304777, b: 0.22014059, a: 1}
-  soundEffect: {fileID: 0}
-  portraits:
-  - {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
-  portraitsFace: 0
-  setSayDialog: {fileID: 0}
-  description: The Customer
---- !u!4 &584180483
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 584180481}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &597717954
 GameObject:
   m_ObjectHideFlags: 0
@@ -4583,6 +5479,58 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -10}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &626811787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 626811789}
+  - component: {fileID: 626811788}
+  m_Layer: 0
+  m_Name: Beatrice
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &626811788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626811787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Beatrice
+  nameColor: {r: 0.9811321, g: 0.49519405, b: 0.5313383, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: The Customer
+--- !u!4 &626811789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626811787}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &645489847
 GameObject:
   m_ObjectHideFlags: 0
@@ -5592,7 +6540,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1454637842
 GameObject:

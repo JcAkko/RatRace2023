@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ProjectMain/Scenes/RatRacePOC.unity
-    guid: ef5163adc6d3af54e888095ed6af0448
+    path: Assets/ProjectMain/Scenes/RatRace_Month01.unity
+    guid: bca912463eeebdb4bb8445ee32f506ff
+  - enabled: 1
+    path: Assets/ProjectMain/Scenes/RatRace_Month02.unity
+    guid: 23ca3dc09558a1940a7919e5b06c7858
   m_configObjects: {}
