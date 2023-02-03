@@ -983,14 +983,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: -191.72612
     y: 66.75256
-    width: 82.60866
+    width: 82.911385
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 0
   blockName: News
   description: 
-  eventHandler: {fileID: 350809220}
+  eventHandler: {fileID: 0}
   commandList:
   - {fileID: 350808982}
   - {fileID: 350809028}
@@ -1026,11 +1026,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 794.97833, y: 473.5786}
+  scrollPos: {x: 123.04032, y: 248.25194}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 461
-  zoom: 0.46000046
+  zoom: 0.7900002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1273,7 +1273,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 229.61703
     y: 71.063835
-    width: 82.60866
+    width: 84.17721
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1420,7 +1420,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 337.86365
     y: 71.276634
-    width: 128.2608
+    width: 138.60757
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1498,9 +1498,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 627.8145
+    x: 626.78357
     y: -113.76589
-    width: 219.56505
+    width: 236.0759
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1723,7 +1723,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3.1663246
     y: 70.4269
-    width: 121.73906
+    width: 127.21517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2516,7 +2516,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 966.5035
     y: -115.74002
-    width: 134.78253
+    width: 141.13922
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2635,7 +2635,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.8134
     y: -55.14962
-    width: 123.91297
+    width: 127.21517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2688,7 +2688,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 124
   indentLevel: 0
-  text: Hints
+  text: Tell Me More About it
   description: 
   targetBlock: {fileID: 350809094}
   hideIfVisited: 0
@@ -2841,16 +2841,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 501.16177
+    x: 503.51474
     y: 67.152954
-    width: 93.47822
+    width: 98.10126
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 166
   blockName: Choices
   description: 
-  eventHandler: {fileID: 0}
+  eventHandler: {fileID: 350809220}
   commandList:
   - {fileID: 350809109}
   - {fileID: 350809107}
@@ -2993,7 +2993,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 990.8952
     y: -183.75308
-    width: 99.999954
+    width: 104.43037
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3108,7 +3108,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1220.0891
     y: 390.7446
-    width: 126.08688
+    width: 128.48099
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3164,7 +3164,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 947.28485
     y: 348.5169
-    width: 143.47816
+    width: 149.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3192,7 +3192,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 294
   indentLevel: 0
-  text: Hint
+  text: Tell Me More About It
   description: 
   targetBlock: {fileID: 350809141}
   hideIfVisited: 0
@@ -3244,7 +3244,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 652.7306
     y: 216.04727
-    width: 136.95644
+    width: 142.40503
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3353,7 +3353,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 931.1521
     y: 87.344406
-    width: 169.5651
+    width: 177.84807
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3381,7 +3381,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 273
   indentLevel: 0
-  text: Hint
+  text: Tell Me More About It
   description: 
   targetBlock: {fileID: 350809152}
   hideIfVisited: 0
@@ -3408,7 +3408,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1205.6002
     y: 130.70508
-    width: 123.91297
+    width: 128.48099
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3678,7 +3678,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 719.5129
     y: 85.276276
-    width: 154.34772
+    width: 158.86073
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4030,7 +4030,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1583.7793
     y: 88.514366
-    width: 141.30426
+    width: 149.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4271,7 +4271,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1230.6714
     y: 53.60957
-    width: 99.999954
+    width: 105.69619
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4333,7 +4333,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1231.9904
     y: 304.15924
-    width: 102.17386
+    width: 105.69619
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4876,7 +4876,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  parentBlock: {fileID: 350808978}
+  parentBlock: {fileID: 350809104}
   suppressBlockAutoSelect: 0
   waitForFrames: 1
 --- !u!1 &503377594
