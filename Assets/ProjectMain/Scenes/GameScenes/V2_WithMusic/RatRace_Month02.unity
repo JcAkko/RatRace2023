@@ -1173,7 +1173,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -167.28862
     y: 76.02843
-    width: 82.49996
+    width: 81.03446
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1216,18 +1216,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 669.6487, y: 204.75911}
+  scrollPos: {x: 759.4601, y: 28.649612}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
-  zoom: 0.40000045
+  zoom: 0.5800004
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 350809323}
   selectedCommands: []
   variables: []
   description: 
@@ -1463,7 +1464,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.382965
     y: 75.69397
-    width: 87.499954
+    width: 82.7586
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1589,7 +1590,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 317.95483
     y: 82.03072
-    width: 137.49991
+    width: 134.4827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2159,7 +2160,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 983.57623
     y: -152.32541
-    width: 139.99991
+    width: 134.4827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2279,7 +2280,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.8134
     y: -55.14962
-    width: 129.99991
+    width: 124.13788
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2469,7 +2470,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 501.16177
     y: 67.152954
-    width: 97.49995
+    width: 94.82756
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2646,7 +2647,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1191.1343
     y: -89.089165
-    width: 102.49994
+    width: 99.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2821,7 +2822,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 975.9231
     y: 44.88923
-    width: 157.49988
+    width: 151.72406
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3044,7 +3045,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 662.9572
     y: 340.57178
-    width: 147.4999
+    width: 144.82751
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3128,7 +3129,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 984.4099
     y: 364.00293
-    width: 132.49991
+    width: 127.58615
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3303,7 +3304,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 982.76086
     y: 468.8854
-    width: 157.49988
+    width: 153.44821
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3717,7 +3718,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 155.61703
     y: 72.84433
-    width: 102.49994
+    width: 96.5517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3805,11 +3806,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 383
   indentLevel: 0
-  storyText: Which means you need to pay <color=yellow>13C</color> back to the bank
+  storyText: Which means you need to pay <color=orange>13C</color> back to the bank
     monthly
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3860,11 +3861,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 367
   indentLevel: 0
-  storyText: Okay, If you wish to buy a <color=yellow>5000C</color> house with <color=yellow>1000C</color>
+  storyText: Okay, If you wish to buy a <color=orange>5000C</color> house with <color=orange>1000C</color>
     down payment.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4090,7 +4091,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1189.9553
     y: 108.85675
-    width: 104.99994
+    width: 101.724106
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4157,7 +4158,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1170.1171
     y: 364.7893
-    width: 107.49994
+    width: 106.896515
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4896,11 +4897,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 448
   indentLevel: 0
-  storyText: You need a <color=yellow>4000C</color> mortgage, with a 25 year mortgage
+  storyText: You need a <color=orange>4000C</color> mortgage, with a 25 year mortgage
     plan and 0% interest rate;
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5004,8 +5005,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 453
   indentLevel: 0
-  storyText: 'Yes, it is. And by cutting the digital equipment spending: <color=yellow>5C</color>,
-    you can save up <color=yellow>14C</color> per month.'
+  storyText: 'Yes, it is. And by cutting the digital equipment spending: <color=orange>5C</color>,
+    you can save up <color=orange>14C</color> per month.'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5217,8 +5218,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 476
   indentLevel: 0
-  storyText: 'If we cut the digital equipment spending: <color=yellow>5C</color>,
-    you can save up <color=yellow>14C</color> per month.'
+  storyText: 'If we cut the digital equipment spending: <color=orange>5C</color>,
+    you can save up <color=orange>14C</color> per month.'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5384,7 +5385,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 996.3746
     y: 144.85046
-    width: 132.49991
+    width: 125.862015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5884,7 +5885,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1610.9812
     y: 137.4675
-    width: 144.9999
+    width: 137.93097
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6346,7 +6347,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1553.5552
     y: 75.14049
-    width: 172.49986
+    width: 168.96544
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
