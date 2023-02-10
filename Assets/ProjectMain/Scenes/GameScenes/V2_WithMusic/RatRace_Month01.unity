@@ -1018,7 +1018,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -190.29755
-    y: 65.48674
+    y: 63.847397
     width: 81.14752
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -1067,7 +1067,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 139.86731, y: 23.692612}
+  scrollPos: {x: 654.6211, y: 184.34827}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 461
@@ -1079,7 +1079,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350809143}
+  - {fileID: 350809032}
   selectedCommands: []
   variables: []
   description: 
@@ -1574,11 +1574,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 40
   indentLevel: 0
-  storyText: "It looks like you need another <color=yellow>300 C</color> to start
+  storyText: "It looks like you need another <color=orange>300 C</color> to start
     your own surfboard shop.\r"
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1736,8 +1736,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 4.805668
-    y: 67.89943
+    x: 6.445011
+    y: 66.260086
     width: 117.21307
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -3031,7 +3031,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 906.16547
-    y: 316.06174
+    y: 314.4224
     width: 131.96716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4905,10 +4905,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 389
   indentLevel: 0
-  storyText: Then you can save <color=yellow>300 cheese within about 4 years! </color>
+  storyText: Then you can save <color=orange>300 cheese within about 4 years! </color>
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
