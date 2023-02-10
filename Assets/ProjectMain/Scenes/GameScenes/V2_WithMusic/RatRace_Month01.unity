@@ -1019,7 +1019,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -190.29755
     y: 65.48674
-    width: 81.42856
+    width: 81.14752
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1067,11 +1067,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 19.407099, y: 77.33801}
+  scrollPos: {x: 649.70306, y: 94.18437}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 461
-  zoom: 0.7000003
+  zoom: 0.6100004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1288,7 +1288,7 @@ MonoBehaviour:
     far away.
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1314,7 +1314,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 229.61703
     y: 69.79801
-    width: 84.285706
+    width: 81.14752
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1354,7 +1354,7 @@ MonoBehaviour:
     Stop for a minimum wage job.</b>"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1381,7 +1381,7 @@ MonoBehaviour:
   storyText: "So what issues are you facing at the moment?\r"
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1462,7 +1462,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 339.12946
     y: 70.01081
-    width: 135.71425
+    width: 131.96716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1542,7 +1542,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 626.78357
     y: -111.234245
-    width: 231.4285
+    width: 223.77039
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1735,9 +1735,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 3.1663246
-    y: 69.328
-    width: 125.71426
+    x: 4.805668
+    y: 67.89943
+    width: 117.21307
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1776,7 +1776,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 356a4ae11bf5f0944bb2aef1980020a5, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809035
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -1794,7 +1794,7 @@ MonoBehaviour:
   storyText: Howzit, brah? You work here?
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2072,7 +2072,7 @@ MonoBehaviour:
     the soul.\r"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2175,7 +2175,7 @@ MonoBehaviour:
     financial struggles."
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2385,7 +2385,7 @@ MonoBehaviour:
   storyText: Sure man.
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2505,7 +2505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 966.5035
     y: -115.74002
-    width: 138.5714
+    width: 133.6065
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2625,7 +2625,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.8134
     y: -55.14962
-    width: 125.71426
+    width: 123.77045
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2816,7 +2816,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 503.51474
     y: 67.152954
-    width: 95.714264
+    width: 94.26227
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2914,7 +2914,7 @@ MonoBehaviour:
     very durable"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2940,7 +2940,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1160.5149
     y: -55.904922
-    width: 101.42855
+    width: 100.81964
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3005,7 +3005,7 @@ MonoBehaviour:
   storyText: "Ah, mahalo. See you around, ah?\r"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3031,7 +3031,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 906.16547
     y: 316.06174
-    width: 134.28568
+    width: 131.96716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3085,7 +3085,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1196.6537
     y: 408.01007
-    width: 137.14282
+    width: 131.96716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3172,7 +3172,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 652.7306
     y: 216.04727
-    width: 141.42853
+    width: 135.24585
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3281,7 +3281,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 931.1521
     y: 87.344406
-    width: 179.99995
+    width: 174.59009
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3335,7 +3335,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1205.6002
     y: 130.70508
-    width: 127.14282
+    width: 123.77045
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3399,7 +3399,7 @@ MonoBehaviour:
   storyText: "emmm\u2026ok\u2026"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3454,7 +3454,7 @@ MonoBehaviour:
   storyText: "Ok\u2026 But why is there a good chance there?"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3586,7 +3586,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 719.5129
     y: 86.5421
-    width: 157.14282
+    width: 153.27863
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3856,7 +3856,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1583.7793
     y: 88.514366
-    width: 147.14282
+    width: 141.80322
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4096,7 +4096,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1372.2798
     y: 88.72711
-    width: 102.85712
+    width: 100.81964
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4162,7 +4162,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1231.9904
     y: 304.15924
-    width: 104.28569
+    width: 102.458984
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4361,7 +4361,7 @@ MonoBehaviour:
   storyText: No problem Aukai. Best of luck in the future.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4388,7 +4388,7 @@ MonoBehaviour:
   storyText: "Ah, mahalo. See you around, ah?\r"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4631,7 +4631,7 @@ MonoBehaviour:
   storyText: "Ah, mahalo. See you around, ah?\r"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4824,7 +4824,7 @@ MonoBehaviour:
   storyText: Really? How much do I need to save exactly?
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4880,7 +4880,7 @@ MonoBehaviour:
   storyText: Ok.
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4934,7 +4934,7 @@ MonoBehaviour:
   storyText: 4 years???
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5111,7 +5111,7 @@ MonoBehaviour:
     you recommend?
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5193,7 +5193,7 @@ MonoBehaviour:
   storyText: "I see\u2026 I will think about that, thanks for your explanation."
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5245,7 +5245,7 @@ MonoBehaviour:
   storyText: "Ok\u2026 But what is web 3.0?"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5383,7 +5383,7 @@ MonoBehaviour:
   storyText: "emmm\u2026ok\u2026\r"
   description: 
   character: {fileID: 584180482}
-  portrait: {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6014,10 +6014,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameText: Aukai
-  nameColor: {r: 0.9150943, g: 0.7304777, b: 0.22014059, a: 1}
+  nameColor: {r: 0, g: 0.033706184, b: 0.8396226, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 9a957c52188c5ea4ab6317dc3cb8dd1c, type: 3}
+  - {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: The Customer
