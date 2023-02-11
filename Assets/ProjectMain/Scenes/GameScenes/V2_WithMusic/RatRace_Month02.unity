@@ -280,6 +280,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7976435556110647908, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1082.8223
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435556110647908, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 598.0888
+      objectReference: {fileID: 0}
     - target: {fileID: 7976435556668630437, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
       propertyPath: m_Name
       value: SayDialog
@@ -367,6 +375,38 @@ PrefabInstance:
     - target: {fileID: 7976435556668630443, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435556699411785, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435556699411785, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2b0d202f755c6ed4192e9b67fd59c776, type: 3}
+    - target: {fileID: 7976435556907759329, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6c997b01abe07d543943b5e52da9f4d5, type: 3}
+    - target: {fileID: 7976435557034692004, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435557034692004, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435557034692004, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435557034692006, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -207.792
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435557034692006, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -70.395996
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
@@ -1108,6 +1148,8 @@ GameObject:
   - component: {fileID: 350809318}
   - component: {fileID: 350809319}
   - component: {fileID: 350809317}
+  - component: {fileID: 350809323}
+  - component: {fileID: 350809322}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1131,7 +1173,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -167.28862
     y: 76.02843
-    width: 81.506836
+    width: 81.03446
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1174,11 +1216,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 339.45923, y: 146.92352}
+  scrollPos: {x: 759.4601, y: 28.649612}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
-  zoom: 0.73000026
+  zoom: 0.5800004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1186,7 +1228,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350808994}
+  - {fileID: 350809323}
   selectedCommands: []
   variables: []
   description: 
@@ -1396,7 +1438,7 @@ MonoBehaviour:
     live in a Condo.
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1422,7 +1464,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.382965
     y: 75.69397
-    width: 84.24657
+    width: 82.7586
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1468,7 +1510,7 @@ MonoBehaviour:
   storyText: "Hello sir! My name\u2019s Beatrice. How are you today? "
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1548,7 +1590,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 317.95483
     y: 82.03072
-    width: 133.56161
+    width: 134.4827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1962,7 +2004,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809057
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2041,7 +2083,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809082
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2118,7 +2160,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 983.57623
     y: -152.32541
-    width: 134.93149
+    width: 134.4827
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2238,7 +2280,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.8134
     y: -55.14962
-    width: 125.34244
+    width: 124.13788
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2370,7 +2412,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809102
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2428,7 +2470,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 501.16177
     y: 67.152954
-    width: 95.20546
+    width: 94.82756
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2533,7 +2575,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809112
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2579,7 +2621,7 @@ MonoBehaviour:
   storyText: Yes
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2605,7 +2647,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1191.1343
     y: -89.089165
-    width: 99.31505
+    width: 99.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2780,7 +2822,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 975.9231
     y: 44.88923
-    width: 151.36983
+    width: 151.72406
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2932,7 +2974,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809138
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3003,7 +3045,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 662.9572
     y: 340.57178
-    width: 143.15065
+    width: 144.82751
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3086,8 +3128,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 984.4099
-    y: 365.4315
-    width: 128.08215
+    y: 364.00293
+    width: 127.58615
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3153,7 +3195,7 @@ MonoBehaviour:
   storyText: "Ok\u2026but what is a mutual fund?"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3208,7 +3250,7 @@ MonoBehaviour:
   storyText: Yes.
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3262,7 +3304,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 982.76086
     y: 468.8854
-    width: 152.73969
+    width: 153.44821
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3421,7 +3463,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809174
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3540,7 +3582,7 @@ MonoBehaviour:
   storyText: <b>I have this big dream to purchase a house of my own.</b>
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3568,7 +3610,7 @@ MonoBehaviour:
     apply for a mortgage here, can you help with that?"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3596,7 +3638,7 @@ MonoBehaviour:
     enough money right now to pay for the down payment</b> for a house
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3623,7 +3665,7 @@ MonoBehaviour:
   storyText: Yeah for sure!
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3676,7 +3718,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 155.61703
     y: 72.84433
-    width: 97.94519
+    width: 96.5517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3764,11 +3806,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 383
   indentLevel: 0
-  storyText: Which means you need to pay <color=yellow>13C</color> back to the bank
+  storyText: Which means you need to pay <color=orange>13C</color> back to the bank
     monthly
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3819,11 +3861,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 367
   indentLevel: 0
-  storyText: Okay, If you wish to buy a <color=yellow>5000C</color> house with <color=yellow>1000C</color>
+  storyText: Okay, If you wish to buy a <color=orange>5000C</color> house with <color=orange>1000C</color>
     down payment.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3869,7 +3911,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 4576a962ef72335449a42ddfdd3fc460, type: 3}
+  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
 --- !u!114 &350809221
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3996,7 +4038,7 @@ MonoBehaviour:
   storyText: "Thank you very much for the advice sir!\r"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4047,9 +4089,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1185.0372
+    x: 1189.9553
     y: 108.85675
-    width: 100.68491
+    width: 101.724106
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4116,7 +4158,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1170.1171
     y: 364.7893
-    width: 104.7945
+    width: 106.896515
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4294,7 +4336,7 @@ MonoBehaviour:
   storyText: "Thank you very much for the advice sir!\r"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4484,7 +4526,7 @@ MonoBehaviour:
   storyText: "Thank you very much for the advice sir!\r"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4855,11 +4897,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 448
   indentLevel: 0
-  storyText: You need a <color=yellow>4000C</color> mortgage, with a 25 year mortgage
+  storyText: You need a <color=orange>4000C</color> mortgage, with a 25 year mortgage
     plan and 0% interest rate;
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4911,7 +4953,7 @@ MonoBehaviour:
   storyText: What do you mean?
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4963,8 +5005,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 453
   indentLevel: 0
-  storyText: 'Yes, it is. And by cutting the digital equipment spending: <color=yellow>5C</color>,
-    you can save up <color=yellow>14C</color> per month.'
+  storyText: 'Yes, it is. And by cutting the digital equipment spending: <color=orange>5C</color>,
+    you can save up <color=orange>14C</color> per month.'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4994,7 +5036,7 @@ MonoBehaviour:
   storyText: "20%?! I\u2026 I didn't realize it's that much!"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5048,7 +5090,7 @@ MonoBehaviour:
   storyText: "Ok, I will think about that\r"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5125,7 +5167,7 @@ MonoBehaviour:
   storyText: "Ok\u2026 But I can\u2019t buy anything I like anymore."
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5176,8 +5218,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 476
   indentLevel: 0
-  storyText: 'If we cut the digital equipment spending: <color=yellow>5C</color>,
-    you can save up <color=yellow>14C</color> per month.'
+  storyText: 'If we cut the digital equipment spending: <color=orange>5C</color>,
+    you can save up <color=orange>14C</color> per month.'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5235,7 +5277,7 @@ MonoBehaviour:
   storyText: What do you mean?
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5289,7 +5331,7 @@ MonoBehaviour:
   storyText: Yes
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5343,7 +5385,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 996.3746
     y: 144.85046
-    width: 126.7123
+    width: 125.862015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5525,7 +5567,7 @@ MonoBehaviour:
   storyText: "Really? Okay\u2026but, if the house price increases by a lot,"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5553,7 +5595,7 @@ MonoBehaviour:
     a lower income may have a harder time buying houses of their own?"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5686,7 +5728,7 @@ MonoBehaviour:
   storyText: "On what?\r"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5740,7 +5782,7 @@ MonoBehaviour:
   storyText: "Sounds not bad, so will this\u2026 mutual fund make me a lot of money?"
   description: 
   character: {fileID: 626811788}
-  portrait: {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5841,9 +5883,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1507.7017
-    y: 135.82816
-    width: 139.04106
+    x: 1610.9812
+    y: 137.4675
+    width: 137.93097
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5870,7 +5912,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Next Level
   description: 
-  targetBlock: {fileID: 350809299}
+  targetBlock: {fileID: 350809323}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -5895,7 +5937,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Next Level
   description: 
-  targetBlock: {fileID: 350809299}
+  targetBlock: {fileID: 350809323}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -5920,7 +5962,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Next Level
   description: 
-  targetBlock: {fileID: 350809299}
+  targetBlock: {fileID: 350809323}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -6074,7 +6116,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &350809311
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6123,7 +6165,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &350809314
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6140,7 +6182,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &350809315
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6154,7 +6196,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &350809316
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6171,7 +6213,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &350809317
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6189,7 +6231,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &350809318
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6216,7 +6258,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809319
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6233,7 +6275,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &350809320
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6247,7 +6289,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &350809321
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6262,6 +6304,60 @@ MonoBehaviour:
   volume: 0
   fadeDuration: 1
   waitUntilFinished: 1
+--- !u!114 &350809322
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 522
+  indentLevel: 0
+  storyText: Thank you for playing
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809323
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: 1553.5552
+    y: 75.14049
+    width: 168.96544
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 521
+  blockName: Finish Game For Now
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 350809322}
+  suppressAllAutoSelections: 0
 --- !u!1 &503377594
 GameObject:
   m_ObjectHideFlags: 0
@@ -6559,7 +6655,7 @@ MonoBehaviour:
   nameColor: {r: 0.9811321, g: 0.49519405, b: 0.5313383, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 4e5425118b438814ab02d9061a81babe, type: 3}
+  - {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: The Customer
