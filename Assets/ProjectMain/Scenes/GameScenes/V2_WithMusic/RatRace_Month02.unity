@@ -1150,6 +1150,7 @@ GameObject:
   - component: {fileID: 350809317}
   - component: {fileID: 350809323}
   - component: {fileID: 350809322}
+  - component: {fileID: 350809324}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1216,7 +1217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 759.4601, y: 28.649612}
+  scrollPos: {x: 609.45984, y: 99.3392}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
@@ -1227,8 +1228,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 350809323}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -2468,7 +2468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 501.16177
+    x: 504.61005
     y: 67.152954
     width: 94.82756
     height: 40
@@ -2483,6 +2483,7 @@ MonoBehaviour:
   - {fileID: 350809107}
   - {fileID: 350809106}
   - {fileID: 350809105}
+  - {fileID: 350809324}
   suppressAllAutoSelections: 0
 --- !u!114 &350809105
 MonoBehaviour:
@@ -6358,6 +6359,31 @@ MonoBehaviour:
   commandList:
   - {fileID: 350809322}
   suppressAllAutoSelections: 0
+--- !u!114 &350809324
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 523
+  indentLevel: 0
+  text: Review Newscast
+  description: 
+  targetBlock: {fileID: 350808978}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
 --- !u!1 &503377594
 GameObject:
   m_ObjectHideFlags: 0
