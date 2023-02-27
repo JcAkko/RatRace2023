@@ -1018,7 +1018,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -190.29755
+    x: -188.09973
     y: 63.847397
     width: 80.769226
     height: 40
@@ -1068,7 +1068,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 497.0982, y: 124.56984}
+  scrollPos: {x: 358.63617, y: 135.55888}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 461
@@ -1082,7 +1082,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 350809032}
   selectedCommands:
-  - {fileID: 350809035}
+  - {fileID: 350809048}
   variables: []
   description: 
   stepPause: 0
@@ -1180,9 +1180,9 @@ MonoBehaviour:
   storyText: "\"I hope you\u2019re all doing well today, especially since there is
     still quite the pandemic out there!\""
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 99f8095cdfa8ffe499e0cd98b547eb50, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1207,7 +1207,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '"People are getting sick and the job market looks tougher each day!"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1235,7 +1235,7 @@ MonoBehaviour:
   storyText: '"Good morning citizens of Ratville, this is Coco speaking to you live
     from RatRace Businessweek!"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1794,7 +1794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 61
   indentLevel: 0
-  storyText: YOU FUCKIG BITH
+  storyText: Howzit, brah? You work here?
   description: 
   character: {fileID: 584180482}
   portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
@@ -1824,7 +1824,7 @@ MonoBehaviour:
   storyText: '"Anyway, my name is Coco, and we here at RatRace Businessweek wish
     you good luck!"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1852,7 +1852,7 @@ MonoBehaviour:
   storyText: '"All eligible citizens who lost their jobs due to <b>LOSIL-45 will
     receive an extra payment for the next 9 months.</b>"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1880,7 +1880,7 @@ MonoBehaviour:
   storyText: '"Along with that, the government announced the <b>Ratville Rescue Plan
     with 3.5 million extra Cheese slices in emergency funding.</b>"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1908,7 +1908,7 @@ MonoBehaviour:
   storyText: '"The government is hoping that this policy will help companies and
     small businesses to survive the harsh financial environment due to the pandemic."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1936,7 +1936,7 @@ MonoBehaviour:
   storyText: '"Now, <b>companies or small businesses will be able to borrow cheese
     slices from the bank with zero extra cost.</b>"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1963,7 +1963,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '"What does this mean?"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1991,7 +1991,7 @@ MonoBehaviour:
   storyText: '"The <b>Federal Reserve</b> has lowered the <b>federal funds interest
     rate to 0%</b>"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2018,7 +2018,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '"However, there may still be a silver lining for small business owners:"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2046,7 +2046,7 @@ MonoBehaviour:
   storyText: '"Companies that borrow money from the bank usually have to pay a percentage
     back to the bank."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   storyText: "Let\u2019s go to my office?\r"
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -4718,7 +4718,7 @@ MonoBehaviour:
   storyText: '"All of this is to help support people who were negatively affected
     by this pandemic."'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 667680956}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6044,7 +6044,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: Aukai
   nameColor: {r: 0, g: 0.033706184, b: 0.8396226, a: 1}
-  soundEffect: {fileID: 0}
+  soundEffect: {fileID: 8300000, guid: c4f4654a1c867e541b4cdc6c00a13d6d, type: 3}
   portraits:
   - {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   portraitsFace: 0
@@ -6182,6 +6182,58 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 645489847}
   m_CullTransparentMesh: 1
+--- !u!1 &667680955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 667680957}
+  - component: {fileID: 667680956}
+  m_Layer: 0
+  m_Name: Coco
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &667680956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 667680955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Coco
+  nameColor: {r: 0.8392157, g: 0, b: 0.03156575, a: 1}
+  soundEffect: {fileID: 8300000, guid: 99f8095cdfa8ffe499e0cd98b547eb50, type: 3}
+  portraits:
+  - {fileID: 0}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: The newscaster
+--- !u!4 &667680957
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 667680955}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &717482805
 GameObject:
   m_ObjectHideFlags: 0
@@ -7111,7 +7163,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1454637842
 GameObject:
@@ -7296,7 +7348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: You
   nameColor: {r: 0.43164828, g: 0.6194457, b: 0.9433962, a: 1}
-  soundEffect: {fileID: 0}
+  soundEffect: {fileID: 8300000, guid: 861168164824f2a42b509af1bbed675a, type: 3}
   portraits:
   - {fileID: 0}
   portraitsFace: 0
@@ -7927,6 +7979,18 @@ PrefabInstance:
     - target: {fileID: 7976435556110647908, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 597.29236
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435556668630433, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: writingSpeed
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435556668630434, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7976435556668630434, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
+      propertyPath: volume
+      value: 0.474
       objectReference: {fileID: 0}
     - target: {fileID: 7976435556668630437, guid: 08ca66072fcf21e40a9644b480263eef, type: 3}
       propertyPath: m_Name
