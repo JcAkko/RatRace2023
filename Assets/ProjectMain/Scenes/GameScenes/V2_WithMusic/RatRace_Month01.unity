@@ -1079,8 +1079,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 350809032}
+  selectedCommands:
+  - {fileID: 350809035}
   variables: []
   description: 
   stepPause: 0
@@ -1792,7 +1794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 61
   indentLevel: 0
-  storyText: Howzit, brah? You work here?
+  storyText: YOU FUCKIG BITH
   description: 
   character: {fileID: 584180482}
   portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
