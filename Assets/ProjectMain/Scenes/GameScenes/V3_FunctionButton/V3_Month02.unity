@@ -1326,7 +1326,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -167.28862
     y: 76.02843
-    width: 80.769226
+    width: 81.707306
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1369,19 +1369,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 267.67883, y: 175.84943}
+  scrollPos: {x: 402.34772, y: 119.45976}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
-  zoom: 0.9100001
+  zoom: 0.8200002
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 350809323}
+  selectedCommands:
+  - {fileID: 350809322}
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -1426,7 +1428,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '"BREAKING NEWS"'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1453,7 +1455,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Year02
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1563,7 +1565,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...TV turns off...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1618,7 +1620,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.382965
     y: 75.69397
-    width: 84.06593
+    width: 82.92682
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1719,7 +1721,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: You have an appointment with a customer today
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1746,7 +1748,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 317.95483
     y: 82.03072
-    width: 132.41757
+    width: 135.36584
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1798,7 +1800,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...Time to Start Work...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1859,7 +1861,7 @@ MonoBehaviour:
   storyText: Based on Beatrice's financial report, please choose the best advise
     for her
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2316,7 +2318,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 983.57623
     y: -152.32541
-    width: 133.51648
+    width: 139.02437
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2436,7 +2438,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 978.8134
     y: -55.14962
-    width: 124.725266
+    width: 124.39023
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2626,7 +2628,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 504.61005
     y: 67.152954
-    width: 93.95604
+    width: 96.34145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2804,7 +2806,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1191.1343
     y: -89.089165
-    width: 98.35164
+    width: 102.43901
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2871,7 +2873,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ....
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2980,7 +2982,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 975.9231
     y: 44.88923
-    width: 150
+    width: 156.09753
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3203,7 +3205,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 662.9572
     y: 340.57178
-    width: 142.30768
+    width: 146.34145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3287,7 +3289,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 984.4099
     y: 364.00293
-    width: 126.92307
+    width: 126.829254
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3462,7 +3464,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 982.76086
     y: 468.8854
-    width: 151.09889
+    width: 157.31705
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3658,7 +3660,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...TV turns on ...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3685,7 +3687,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice shows up..
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3712,7 +3714,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ......
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3874,9 +3876,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 155.61703
+    x: 154.51813
     y: 72.84433
-    width: 97.25275
+    width: 97.56097
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3912,7 +3914,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice's Financial Report
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4087,7 +4089,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice <color=orange>Neutral</color> Ending unlocked.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4114,7 +4116,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: for she now has to spend 1600C yearly
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4142,7 +4144,7 @@ MonoBehaviour:
   storyText: But she has to be extra careful with her money spending during the next
     20 years
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4169,7 +4171,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Her big dream came true
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4223,7 +4225,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice <color=green>Good</color> Ending unlocked.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4248,9 +4250,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1189.9553
+    x: 1188.8564
     y: 108.85675
-    width: 99.45055
+    width: 103.65852
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4318,7 +4320,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1170.1171
     y: 364.7893
-    width: 103.846146
+    width: 107.31706
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4384,7 +4386,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice <color=red>Bad</color> Ending unlocked.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4413,7 +4415,7 @@ MonoBehaviour:
 
 '
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4441,7 +4443,7 @@ MonoBehaviour:
   storyText: ' As a result, the stock market crashed and the fund manager was unable
     to make investments that actually paid off.'
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4469,7 +4471,7 @@ MonoBehaviour:
   storyText: The market is negatively impacted by LOSIL-45, resulting in small businesses
     shutting down and people losing their jobs
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4550,7 +4552,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: She kept 1,500 out of the 6,500.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4578,7 +4580,7 @@ MonoBehaviour:
   storyText: After Beatrice paid the 5,000C mortgage back to the bank with the money
     she earned from selling.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4605,7 +4607,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice sold her house with a price of 6,500C
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4632,7 +4634,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: The price of her house increased another 30% at the end of the year
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4659,7 +4661,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: One year later...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4713,7 +4715,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice cut her expenses and bought the house.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4740,7 +4742,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ... ...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4794,7 +4796,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Beatrice cut her expenses and moved into her new house.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4928,7 +4930,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: .....
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5546,7 +5548,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 996.3746
     y: 144.85046
-    width: 125.824165
+    width: 125.60974
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6046,7 +6048,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1610.9812
     y: 137.4675
-    width: 135.71428
+    width: 142.6829
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6216,7 +6218,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: One year later...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6406,7 +6408,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: One year later...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6481,7 +6483,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Thank you for playing
   description: 
-  character: {fileID: 0}
+  character: {fileID: 1395828145}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6508,7 +6510,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1553.5552
     y: 75.14049
-    width: 166.4835
+    width: 167.07315
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8386,6 +8388,58 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1395828144
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1395828146}
+  - component: {fileID: 1395828145}
+  m_Layer: 0
+  m_Name: N/A
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1395828145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395828144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: N/A
+  nameColor: {r: 0, g: 0, b: 0, a: 1}
+  soundEffect: {fileID: 8300000, guid: cc6a7f3c111e543448afdbf9310c5e8c, type: 3}
+  portraits:
+  - {fileID: 0}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: No one
+--- !u!4 &1395828146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395828144}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1416631201
 GameObject:

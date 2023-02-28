@@ -1076,7 +1076,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 261.29147, y: 156.9176}
+  scrollPos: {x: -87.01357, y: 87.002365}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 461
@@ -1160,7 +1160,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...TV turns on ...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1270,7 +1270,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...TV turns off...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1418,7 +1418,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai follows you to the office...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1527,7 +1527,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ...Time to Start Work...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1615,7 +1615,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai may cut on some of his monthly expenses to save more money
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -2292,7 +2292,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai's Financial Report
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3523,7 +3523,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Invest in healthcare and retail related stocks
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3687,7 +3687,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Invest in Stock Market
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3799,7 +3799,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Buy Meta Verse related stocks.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3898,7 +3898,7 @@ MonoBehaviour:
   storyText: Aukai now only need 3.3 more years to have enough money to own a surfing
     store.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3925,7 +3925,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai cutted his expense on surfing equipment and now saving 90C a year
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3952,7 +3952,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: One year later...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -3979,7 +3979,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ... ...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4033,7 +4033,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai <color=orange>Neutral</color> Ending unlocked.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4151,7 +4151,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1231.9904
-    y: 304.15924
+    y: 302.88806
     width: 105.932205
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4243,7 +4243,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai <color=red>Bad</color> Ending unlocked.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4270,7 +4270,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai realized that most companies he invested in are scammers.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4297,7 +4297,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: One year later...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4324,7 +4324,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ... ...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4405,7 +4405,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai <color=green>Good</color> Ending unlocked.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4432,7 +4432,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai earned 100C.
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4459,7 +4459,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: The stock price doubled at the end of the year
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4486,7 +4486,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Due to the increasing need for medication and Daily necessities
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4513,7 +4513,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: One year later...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4540,7 +4540,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai invested 100C in medical and retail stocks
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4567,7 +4567,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: ... ...
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4650,7 +4650,7 @@ MonoBehaviour:
 
 '
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -4677,7 +4677,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Aukai invested 100C in metaverse stocks
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5455,7 +5455,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Year 01
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -6030,7 +6030,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Customer comes in
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2108126005}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -8145,6 +8145,58 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2108126004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2108126006}
+  - component: {fileID: 2108126005}
+  m_Layer: 0
+  m_Name: N/A
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2108126005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2108126004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: N/A
+  nameColor: {r: 0, g: 0, b: 0, a: 1}
+  soundEffect: {fileID: 8300000, guid: cc6a7f3c111e543448afdbf9310c5e8c, type: 3}
+  portraits:
+  - {fileID: 0}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: No one
+--- !u!4 &2108126006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2108126004}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &925296102728170005
 PrefabInstance:
