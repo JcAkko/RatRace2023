@@ -1005,6 +1005,8 @@ GameObject:
   - component: {fileID: 350809279}
   - component: {fileID: 350809278}
   - component: {fileID: 350809280}
+  - component: {fileID: 350809281}
+  - component: {fileID: 350809282}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1076,7 +1078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 232.66364, y: 133.61435}
+  scrollPos: {x: 626.9044, y: 190.15878}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 461
@@ -1087,8 +1089,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 350808994}
+  selectedCommands:
+  - {fileID: 350809282}
   variables:
   - {fileID: 350809277}
   - {fileID: 350809276}
@@ -1489,6 +1493,8 @@ MonoBehaviour:
   - {fileID: 350809019}
   - {fileID: 350809222}
   - {fileID: 350809103}
+  - {fileID: 350809281}
+  - {fileID: 350809282}
   suppressAllAutoSelections: 0
 --- !u!114 &350808997
 MonoBehaviour:
@@ -4733,7 +4739,7 @@ MonoBehaviour:
   storyText: Let me think about some suggestions for you.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6193,6 +6199,61 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &350809281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 450
+  indentLevel: 0
+  storyText: 'Please choose an option for your customer. '
+  description: 
+  character: {fileID: 2108126005}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 451
+  indentLevel: 0
+  storyText: If you don't understand an option, you can click "tell me more about
+    it" after you choose an option.
+  description: 
+  character: {fileID: 2108126005}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &503377594
 GameObject:
   m_ObjectHideFlags: 0
