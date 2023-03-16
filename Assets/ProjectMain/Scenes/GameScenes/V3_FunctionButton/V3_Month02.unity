@@ -1165,7 +1165,6 @@ GameObject:
   - component: {fileID: 350809174}
   - component: {fileID: 350809173}
   - component: {fileID: 350809172}
-  - component: {fileID: 350809171}
   - component: {fileID: 350809147}
   - component: {fileID: 350809152}
   - component: {fileID: 350809158}
@@ -1198,7 +1197,6 @@ GameObject:
   - component: {fileID: 350809224}
   - component: {fileID: 350809223}
   - component: {fileID: 350809222}
-  - component: {fileID: 350809221}
   - component: {fileID: 350809225}
   - component: {fileID: 350809227}
   - component: {fileID: 350809244}
@@ -1206,14 +1204,12 @@ GameObject:
   - component: {fileID: 350809243}
   - component: {fileID: 350809242}
   - component: {fileID: 350809241}
-  - component: {fileID: 350809226}
   - component: {fileID: 350809228}
   - component: {fileID: 350809229}
   - component: {fileID: 350809236}
   - component: {fileID: 350809235}
   - component: {fileID: 350809234}
   - component: {fileID: 350809233}
-  - component: {fileID: 350809231}
   - component: {fileID: 350809230}
   - component: {fileID: 350809240}
   - component: {fileID: 350809246}
@@ -1221,7 +1217,6 @@ GameObject:
   - component: {fileID: 350809247}
   - component: {fileID: 350809249}
   - component: {fileID: 350809250}
-  - component: {fileID: 350809255}
   - component: {fileID: 350809252}
   - component: {fileID: 350809253}
   - component: {fileID: 350809256}
@@ -1252,7 +1247,6 @@ GameObject:
   - component: {fileID: 350809284}
   - component: {fileID: 350809283}
   - component: {fileID: 350809285}
-  - component: {fileID: 350809286}
   - component: {fileID: 350809287}
   - component: {fileID: 350809288}
   - component: {fileID: 350809289}
@@ -1262,7 +1256,6 @@ GameObject:
   - component: {fileID: 350809294}
   - component: {fileID: 350809293}
   - component: {fileID: 350809292}
-  - component: {fileID: 350809296}
   - component: {fileID: 350809297}
   - component: {fileID: 350809299}
   - component: {fileID: 350809298}
@@ -1301,6 +1294,14 @@ GameObject:
   - component: {fileID: 350809332}
   - component: {fileID: 350809334}
   - component: {fileID: 350809333}
+  - component: {fileID: 350809335}
+  - component: {fileID: 350809336}
+  - component: {fileID: 350809337}
+  - component: {fileID: 350809338}
+  - component: {fileID: 350809342}
+  - component: {fileID: 350809341}
+  - component: {fileID: 350809340}
+  - component: {fileID: 350809339}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1367,7 +1368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -11.697271, y: 159.63086}
+  scrollPos: {x: 440.93408, y: 206.99934}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
@@ -1378,8 +1379,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 350809114}
+  selectedCommands:
+  - {fileID: 350809223}
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -2769,7 +2772,6 @@ MonoBehaviour:
   - {fileID: 350809224}
   - {fileID: 350809223}
   - {fileID: 350809222}
-  - {fileID: 350809221}
   - {fileID: 350809115}
   - {fileID: 350809300}
   suppressAllAutoSelections: 0
@@ -3129,8 +3131,6 @@ MonoBehaviour:
   - {fileID: 350809174}
   - {fileID: 350809173}
   - {fileID: 350809172}
-  - {fileID: 350809171}
-  - {fileID: 350809255}
   - {fileID: 350809252}
   - {fileID: 350809149}
   - {fileID: 350809147}
@@ -3216,12 +3216,18 @@ MonoBehaviour:
   - {fileID: 350809291}
   - {fileID: 350809154}
   - {fileID: 350809253}
+  - {fileID: 350809336}
+  - {fileID: 350809337}
+  - {fileID: 350809338}
   - {fileID: 350809295}
   - {fileID: 350809294}
   - {fileID: 350809293}
   - {fileID: 350809292}
-  - {fileID: 350809296}
+  - {fileID: 350809342}
   - {fileID: 350809297}
+  - {fileID: 350809341}
+  - {fileID: 350809340}
+  - {fileID: 350809339}
   - {fileID: 350809290}
   - {fileID: 350809153}
   suppressAllAutoSelections: 0
@@ -3264,7 +3270,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 317
   indentLevel: 0
-  storyText: "Ok\u2026but what is a mutual fund?"
+  storyText: "Ok\u2026but what is a GIC?"
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
@@ -3291,8 +3297,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 283
   indentLevel: 0
-  storyText: "So instead of buying a house this year, I recommend you buy our mutual
-    fund product instead. \n"
+  storyText: "So instead of buying a house this year, I recommend you buy our <b>GIC
+    product</b> instead. \n"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -3472,33 +3478,6 @@ MonoBehaviour:
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
   fadeTweenType: 4
---- !u!114 &350809171
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 241
-  indentLevel: 0
-  storyText: Since Beatrice do not have enough money for the monthly Mortgage
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &350809172
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3986,33 +3965,6 @@ MonoBehaviour:
   images:
   - {fileID: 1454637844}
   sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
---- !u!114 &350809221
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 391
-  indentLevel: 0
-  storyText: Beatrice <color=orange>Neutral</color> Ending unlocked.
-  description: 
-  character: {fileID: 1395828145}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &350809222
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -4027,7 +3979,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 390
   indentLevel: 0
-  storyText: for she now has to spend 1600C yearly
+  storyText: for she now has to spend 160C yearly
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4055,7 +4007,7 @@ MonoBehaviour:
   itemId: 389
   indentLevel: 0
   storyText: But she has to be extra careful with her money spending during the next
-    20 years
+    25 years,
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4122,33 +4074,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &350809226
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 407
-  indentLevel: 0
-  storyText: Beatrice <color=green>Good</color> Ending unlocked.
-  description: 
-  character: {fileID: 1395828145}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &350809227
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -4188,7 +4113,6 @@ MonoBehaviour:
   - {fileID: 350809242}
   - {fileID: 350809241}
   - {fileID: 350809240}
-  - {fileID: 350809226}
   - {fileID: 350809228}
   - {fileID: 350809302}
   suppressAllAutoSelections: 0
@@ -4254,7 +4178,6 @@ MonoBehaviour:
   - {fileID: 350809235}
   - {fileID: 350809234}
   - {fileID: 350809233}
-  - {fileID: 350809231}
   - {fileID: 350809230}
   - {fileID: 350809301}
   suppressAllAutoSelections: 0
@@ -4283,33 +4206,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &350809231
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 423
-  indentLevel: 0
-  storyText: Beatrice <color=red>Bad</color> Ending unlocked.
-  description: 
-  character: {fileID: 1395828145}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &350809233
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -4324,9 +4220,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 421
   indentLevel: 0
-  storyText: 'Beatrice lost 100C at the end of the year.
-
-'
+  storyText: Meaning she has to pay back 10c to the bank monthly.
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4353,8 +4247,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 420
   indentLevel: 0
-  storyText: ' As a result, the stock market crashed and the fund manager was unable
-    to make investments that actually paid off.'
+  storyText: After 7 years however, she also needs to pay back 3000c to the bank
+    over the next 25 years,
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4381,8 +4275,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 419
   indentLevel: 0
-  storyText: The market is negatively impacted by LOSIL-45, resulting in small businesses
-    shutting down and people losing their jobs
+  storyText: After investing in GICs, Beatrice is on her way to being able to afford
+    the mortgage after 7 years.
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4436,7 +4330,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 428
   indentLevel: 0
-  storyText: She kept 1,500 out of the 6,500.
+  storyText: "she now has to spend 1100c back to the bank over the course of the
+    next 25 years, meaning that she now only needs to spend 3.6c monthly back to
+    the bank.\r"
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4463,8 +4359,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 406
   indentLevel: 0
-  storyText: After Beatrice paid the 5,000C mortgage back to the bank with the money
-    she earned from selling.
+  storyText: After Beatrice paid the 3,900C mortgage back to the bank with the money
+    she earned from selling,
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4491,7 +4387,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 405
   indentLevel: 0
-  storyText: Beatrice sold her house with a price of 6,500C
+  storyText: Beatrice sold her house with a price of 3,900C
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4599,7 +4495,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 429
   indentLevel: 0
-  storyText: Beatrice cut her expenses and bought the house.
+  storyText: Beatrice bought the cheaper house.
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4759,37 +4655,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 438
   indentLevel: 0
-  storyText: You are giving your money to a fund manager who specializes in investment
-    to help you manage your money.
+  storyText: GIC is short for <b>Guaranteed Investment Certificate</b> -- it is one
+    of the safest ways to invest.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809255
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 434
-  indentLevel: 0
-  storyText: She can use her saving for other investment instead
-  description: 
-  character: {fileID: 0}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -5216,7 +5085,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 478
   indentLevel: 0
-  storyText: "Ok\u2026 But I can\u2019t buy anything I like anymore."
+  storyText: "Ok\u2026. But that is still not the house that I want."
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
@@ -5243,7 +5112,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 477
   indentLevel: 0
-  storyText: Which is enough for the mortgage payment.
+  storyText: For example, <b>for a 3000C house with a 1000C down payment</b>, <b>you
+    will be left with a 2000C mortgage</b>.
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5270,8 +5140,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 476
   indentLevel: 0
-  storyText: 'If we cut the digital equipment spending: <color=orange>5C</color>,
-    you can save up <color=orange>14C</color> per month.'
+  storyText: 'Buying a cheaper house will not only make you live in your own house
+    without downgrading your current living standards, but it will also create potential
+    for future investment opportunities.
+
+'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5298,8 +5171,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 474
   indentLevel: 0
-  storyText: For example, I realised that you spend more than <b>20%</b> of your
-    income on digital equipment.
+  storyText: Instead of buying a 5,000C house, you can buy a cheaper house that is
+    affordable to you with your current savings and monthly earnings.
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5353,7 +5226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 472
   indentLevel: 0
-  storyText: So to make it happen, you need to cut some of your expenses.
+  storyText: So what about buying a cheaper house instead?
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5453,12 +5326,12 @@ MonoBehaviour:
   - {fileID: 350809276}
   - {fileID: 350809274}
   - {fileID: 350809273}
+  - {fileID: 350809335}
   - {fileID: 350809272}
   - {fileID: 350809282}
   - {fileID: 350809284}
   - {fileID: 350809283}
   - {fileID: 350809285}
-  - {fileID: 350809286}
   - {fileID: 350809287}
   - {fileID: 350809288}
   - {fileID: 350809289}
@@ -5479,7 +5352,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 481
   indentLevel: 0
-  storyText: Exactly, you have to spend your money very carefully for a long while.
+  storyText: "As I mentioned before , <b>it creates potential for future investment
+    opportunities\r</b>."
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5506,7 +5380,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 483
   indentLevel: 0
-  storyText: Take a look at the current governmental monetary policy;
+  storyText: "However, if the house price drops, you will lose money when selling
+    it.\r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5533,7 +5408,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 482
   indentLevel: 0
-  storyText: "So here\u2019s my proposal for you:"
+  storyText: 'If the house price has a trend of going up in the next one or two years,
+    <b>you can make a lot of profit from selling your house</b>.
+
+'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5560,36 +5438,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 484
   indentLevel: 0
-  storyText: 'Analyze the trend of the house market. How will the house price change
-    in the following year? '
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809286
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 485
-  indentLevel: 0
-  storyText: Taking advantage of the current government policy could make you more
-    money than you thought.
+  storyText: "But even if the house price drops, at least you got a house of your
+    own, right?\r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5750,7 +5600,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 495
   indentLevel: 0
-  storyText: Typically the mutual fund has a potential return of <b>-10% to 10%</b>
+  storyText: 'With the current 2% interest rate, if you put all your 1000C savings
+    in, you will earn 2000C within 7 years.
+
+'
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5777,7 +5630,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 494
   indentLevel: 0
-  storyText: "On what?\r"
+  storyText: "So\u2026 How long will I have enough money for my house?"
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
@@ -5804,7 +5657,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 493
   indentLevel: 0
-  storyText: "I will say it depends\u2026"
+  storyText: "Not a lot, but it is very safe.. You know, <b>lower risk, lower return</b>\u2026
+    \r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -5831,38 +5685,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 492
   indentLevel: 0
-  storyText: "Sounds not bad, so will this\u2026 mutual fund make me a lot of money?"
+  storyText: "Sounds not bad, so will this\u2026GIC make me a lot of money?"
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809296
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 496
-  indentLevel: 0
-  storyText: and how it performs depends on the current financial environment of
-    the country as well as what kind of assets your fund manager buys.
-  description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5886,13 +5712,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 497
   indentLevel: 0
-  storyText: 'The one that I recommend, invests <color=red>50% in stock markets</color>
-    and 50% in other more stable and low-risk assets.
-
-'
+  storyText: "Ooh, noice! \n"
   description: 
-  character: {fileID: 1555817353}
-  portrait: {fileID: 0}
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6873,6 +6696,233 @@ MonoBehaviour:
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809335
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 532
+  indentLevel: 0
+  storyText: 'With a <b>25 year mortgage plan</b> and <b>0% interest rate</b>, you
+    need to pay <b>80C/year back to the bank</b>, which means <b>each month you will
+    need to repay 6.6C</b>.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809336
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 533
+  indentLevel: 0
+  storyText: In short, you are <b>guaranteed to get the amount you deposited back
+    at the end of the term</b>.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809337
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 534
+  indentLevel: 0
+  storyText: For example, if you <b>invest 1000C in a one year GIC with 2% interest
+    rate</b>, then you are guaranteed to get <b>1000c * 1.02 = 1020C back</b> one
+    year later.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809338
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 535
+  indentLevel: 0
+  storyText: 'No matter what happened in the world, you got your money back.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809339
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 539
+  indentLevel: 0
+  storyText: Uh, anyways, thanks for your advice sir. I will think about that.
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809340
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 538
+  indentLevel: 0
+  storyText: Oh, sorry, it's a reference to Michael Rosen. Jeez Beatrice, know your
+    audience...
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 8a163e5baeb7d534a870fff1682b7e31, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809341
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 537
+  indentLevel: 0
+  storyText: ..."Noice"?
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809342
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 536
+  indentLevel: 0
+  storyText: 'With a 2000C downpayment, your income will allow you to afford the
+    mortgage. '
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
