@@ -1007,6 +1007,15 @@ GameObject:
   - component: {fileID: 350809280}
   - component: {fileID: 350809281}
   - component: {fileID: 350809282}
+  - component: {fileID: 350809291}
+  - component: {fileID: 350809290}
+  - component: {fileID: 350809289}
+  - component: {fileID: 350809288}
+  - component: {fileID: 350809287}
+  - component: {fileID: 350809286}
+  - component: {fileID: 350809285}
+  - component: {fileID: 350809284}
+  - component: {fileID: 350809283}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1030,7 +1039,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -188.09973
     y: 63.847397
-    width: 81.413605
+    width: 81.651375
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1078,11 +1087,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 626.9044, y: 190.15878}
+  scrollPos: {x: 387.48557, y: 182.65778}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 461
-  zoom: 0.63666683
+  blockViewHeight: 517
+  zoom: 0.72666675
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1090,9 +1099,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350808994}
+  - {fileID: 350809094}
   selectedCommands:
-  - {fileID: 350809282}
+  - {fileID: 350809230}
   variables:
   - {fileID: 350809277}
   - {fileID: 350809276}
@@ -1329,7 +1338,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 272.4742
     y: -12.61956
-    width: 84.55496
+    width: 84.40367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1451,7 +1460,7 @@ MonoBehaviour:
     account?\r"
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1477,7 +1486,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 339.12946
     y: 70.01081
-    width: 130.10469
+    width: 133.94495
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1558,14 +1567,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 626.78357
-    y: -111.234245
-    width: 216.4921
+    x: 680.46576
+    y: -40.056526
+    width: 140.82568
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 26
-  blockName: Reduce Expense & Save Money
+  blockName: Reduce Expense
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -1573,6 +1582,15 @@ MonoBehaviour:
   - {fileID: 350809101}
   - {fileID: 350809100}
   - {fileID: 350809023}
+  - {fileID: 350809291}
+  - {fileID: 350809290}
+  - {fileID: 350809289}
+  - {fileID: 350809288}
+  - {fileID: 350809287}
+  - {fileID: 350809286}
+  - {fileID: 350809285}
+  - {fileID: 350809284}
+  - {fileID: 350809283}
   - {fileID: 350809096}
   - {fileID: 350809025}
   - {fileID: 350809095}
@@ -1619,9 +1637,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 44
   indentLevel: 0
-  storyText: Aukai may cut on some of his monthly expenses to save more money
+  storyText: "So\u2026 I realized that you spend a lot cheese on surfing equipment
+    every month."
   description: 
-  character: {fileID: 2108126005}
+  character: {fileID: 1555817353}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -1726,9 +1745,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -8.939604
-    y: -53.520126
-    width: 122.25129
+    x: -5.7982435
+    y: -58.232166
+    width: 124.31192
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2498,7 +2517,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 966.5035
     y: -115.74002
-    width: 133.24605
+    width: 135.32109
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2617,8 +2636,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 881.01154
-    y: -34.2705
-    width: 125.39265
+    y: -31.518208
+    width: 127.06421
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2809,7 +2828,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 504.61365
     y: 125.95311
-    width: 93.97905
+    width: 95.41284
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2837,7 +2856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 164
   indentLevel: 0
-  text: Invest in Stock Market
+  text: Get a Loan from the Bank
   description: 
   targetBlock: {fileID: 350809146}
   hideIfVisited: 0
@@ -2862,7 +2881,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 162
   indentLevel: 0
-  text: Reduce Expense & Save Money
+  text: Sell Surfboards and Eliminate Expenses
   description: 
   targetBlock: {fileID: 350809008}
   hideIfVisited: 0
@@ -2934,7 +2953,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1123.1526
     y: -6.454376
-    width: 97.12041
+    width: 100.91743
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3026,7 +3045,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 906.16547
     y: 314.4224
-    width: 128.53401
+    width: 132.56879
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3080,7 +3099,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1196.6537
     y: 408.01007
-    width: 134.81674
+    width: 135.32109
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3165,14 +3184,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 652.7306
-    y: 216.04727
-    width: 134.81674
+    x: 621.079
+    y: 265.5885
+    width: 109.1743
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 252
-  blockName: Purchase Stock
+  blockName: Bank Loan
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -3276,7 +3295,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 931.1521
     y: 87.344406
-    width: 172.51306
+    width: 175.22934
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3330,7 +3349,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1205.6002
     y: 130.70508
-    width: 125.39265
+    width: 128.44037
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3581,7 +3600,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 719.5129
     y: 86.5421
-    width: 150.52353
+    width: 154.58714
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3851,7 +3870,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1583.7793
     y: 88.514366
-    width: 141.09946
+    width: 144.95412
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4091,7 +4110,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1372.2798
     y: 88.72711
-    width: 97.12041
+    width: 102.29357
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4158,7 +4177,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1231.9904
     y: 302.88806
-    width: 98.691086
+    width: 103.66972
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4901,7 +4920,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 389
   indentLevel: 0
-  storyText: Then you can save <color=orange>300 cheese within about 4 years! </color>
+  storyText: Then you can save <color=orange>300 cheese in about 3 years! </color>
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4928,7 +4947,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 390
   indentLevel: 0
-  storyText: 4 years???
+  storyText: 3 whole years?
   description: 
   character: {fileID: 584180482}
   portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
@@ -6201,7 +6220,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &350809281
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6228,7 +6247,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809282
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6245,6 +6264,255 @@ MonoBehaviour:
   description: 
   character: {fileID: 2108126005}
   portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809283
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 460
+  indentLevel: 0
+  storyText: "Oh man, okay... Yeah, this might be challenging for me to do, but I\u2019ll
+    think about it."
+  description: 
+  character: {fileID: 584180482}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809284
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 459
+  indentLevel: 0
+  storyText: Yes, but this is the most safe suggestion I have for you, slow but no
+    risk.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809285
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 458
+  indentLevel: 0
+  storyText: 3 whole years?
+  description: 
+  character: {fileID: 584180482}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809286
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 457
+  indentLevel: 0
+  storyText: "That makes your total savings 96 Cheese per year\r. Then you can save
+    300 cheese in just over 3 years!"
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809287
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 456
+  indentLevel: 0
+  storyText: Let's say if you cut your monthly surfing spendings completely, which
+    is 3 cheese right now, then you can save 36 extra cheese per year.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809288
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 455
+  indentLevel: 0
+  storyText: Really? How much do I need to save exactly?
+  description: 
+  character: {fileID: 584180482}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809289
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 454
+  indentLevel: 0
+  storyText: "You need to spend less on your hobby to save more.\r"
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809290
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 453
+  indentLevel: 0
+  storyText: According to your current monthly disposable income, it will take you
+    decades to save enough money for your surfboard shop!
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809291
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 452
+  indentLevel: 0
+  storyText: "Yeah, I have a hobby of collecting surf boards, and those boards are,
+    you know, not cheap\r."
+  description: 
+  character: {fileID: 584180482}
+  portrait: {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
