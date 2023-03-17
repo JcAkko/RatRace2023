@@ -1618,7 +1618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -2.382965
+    x: -1.2064948
     y: 75.69397
     width: 84.117645
     height: 40
@@ -2224,7 +2224,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 6974dbcb1434b3d47b3a400b1cbdd2e1, type: 3}
+  sprite: {fileID: 21300000, guid: 6e42b37ac29b0c54c99a599f28813453, type: 3}
 --- !u!114 &350809067
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9500,7 +9500,7 @@ PrefabInstance:
     - target: {fileID: 1809281791949796059, guid: d2f1de1e34ab9f342b540ac6cdd81185, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 6fb14897e06786344a3fcbeb6c18c2bc, type: 3}
+      objectReference: {fileID: 21300000, guid: 6e42b37ac29b0c54c99a599f28813453, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d2f1de1e34ab9f342b540ac6cdd81185, type: 3}
 --- !u!224 &2080745470 stripped
