@@ -1251,6 +1251,14 @@ GameObject:
   - component: {fileID: 350809329}
   - component: {fileID: 350809331}
   - component: {fileID: 350809332}
+  - component: {fileID: 350809340}
+  - component: {fileID: 350809339}
+  - component: {fileID: 350809338}
+  - component: {fileID: 350809337}
+  - component: {fileID: 350809336}
+  - component: {fileID: 350809335}
+  - component: {fileID: 350809334}
+  - component: {fileID: 350809333}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1274,7 +1282,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -167.28862
     y: 76.02843
-    width: 81.42856
+    width: 82.89473
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1313,18 +1321,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 681.43146, y: 310.45734}
+  scrollPos: {x: 196.1548, y: 392.0663}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
-  zoom: 0.7000003
+  zoom: 0.7600002
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 350809323}
   selectedCommands: []
   variables:
   - {fileID: 350809330}
@@ -1562,7 +1571,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -82.445885
     y: 185.82059
-    width: 84.285706
+    width: 82.89473
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1687,7 +1696,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 221.7525
     y: 188.35988
-    width: 135.71425
+    width: 130.26312
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1765,7 +1774,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 594.0416
     y: -200.25926
-    width: 87.14284
+    width: 84.21052
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2063,7 +2072,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 688.1564
     y: -298.11057
-    width: 138.5714
+    width: 134.21051
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2181,9 +2190,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 885.48816
-    y: -177.78775
-    width: 125.71426
+    x: 849.7739
+    y: -252.0735
+    width: 123.68419
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2369,7 +2378,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 428.01544
     y: -73.35336
-    width: 95.714264
+    width: 94.73683
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2521,7 +2530,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1076.489
     y: -179.55096
-    width: 101.42855
+    width: 98.6842
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2694,7 +2703,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 646.24457
     y: -153.14465
-    width: 155.71423
+    width: 149.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2831,7 +2840,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 651.24054
     y: -61.462753
-    width: 142.8571
+    width: 140.78944
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2862,7 +2871,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 618.3893
     y: 99.85769
-    width: 102.85712
+    width: 99.999985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2920,7 +2929,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 885.9724
     y: 54.627945
-    width: 128.5714
+    width: 124.99998
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3089,7 +3098,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 596.79926
     y: 26.811258
-    width: 157.14282
+    width: 151.31577
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3476,7 +3485,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1109.9609
     y: -63.81099
-    width: 102.85712
+    width: 98.6842
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3540,7 +3549,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1096.6796
     y: 63.226837
-    width: 107.14284
+    width: 102.63156
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4194,7 +4203,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 478
   indentLevel: 0
-  storyText: Sounds very promising, but is there any risk?
+  storyText: So if GICs always guarantee a positive return, why would anyone want
+    to invest in stocks?
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 5c6c4682d76230d4f9b77516f770ae84, type: 3}
@@ -4221,8 +4231,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 474
   indentLevel: 0
-  storyText: 'you can easily earn at least <b>10%-20% profit yearly</b> on top of
-    your current savings. '
+  storyText: "At the end of a GIC term, you will receive your original investment,
+    as well as any interest accumulated during the term.\r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4249,8 +4259,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 473
   indentLevel: 0
-  storyText: "if you invest wisely and make decisions carefully by <b>investing in
-    a fair variety of stocks,</b> \n"
+  storyText: "It\u2019s an investment option where you invest a sum of money for
+    a fixed term. "
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4277,8 +4287,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 472
   indentLevel: 0
-  storyText: While the <b>stock market has performed well</b> in the past few months,
-    with an average of <b>20% increases</b> in medical stocks,
+  storyText: "A GIC is short for \u201CGuaranteed Investment Certificate\u201D. It\u2019s
+    a form of investment product offered by banks where you are . "
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4305,8 +4315,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 471
   indentLevel: 0
-  storyText: Why is it the case? I noticed that the stock prices are sky high right
-    now.
+  storyText: "I know what stocks are, but what is a \u201CGIC\u201D?\r"
   description: 
   character: {fileID: 626811788}
   portrait: {fileID: 21300000, guid: 5c6c4682d76230d4f9b77516f770ae84, type: 3}
@@ -4333,8 +4342,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 470
   indentLevel: 0
-  storyText: ' If you are willing to take some risks, investing in financial products
-    like stocks or GICs is actually a good option for those with higher income.'
+  storyText: If you are willing to take some risks, investing in financial products
+    like stocks or GICs is actually a good option for those with higher income.
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4363,7 +4372,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 887.4197
     y: -80.522606
-    width: 127.14282
+    width: 123.68419
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4382,6 +4391,14 @@ MonoBehaviour:
   - {fileID: 350809284}
   - {fileID: 350809283}
   - {fileID: 350809285}
+  - {fileID: 350809340}
+  - {fileID: 350809339}
+  - {fileID: 350809338}
+  - {fileID: 350809337}
+  - {fileID: 350809336}
+  - {fileID: 350809335}
+  - {fileID: 350809334}
+  - {fileID: 350809333}
   - {fileID: 350809271}
   - {fileID: 350809270}
   suppressAllAutoSelections: 0
@@ -4399,8 +4416,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 481
   indentLevel: 0
-  storyText: Everything has a risk, Dr. Mo. Buying stocks is all about judging and
-    timing -- it is a game of high risk and high return.
+  storyText: There are a few key differences when it comes to investing in GICs and
+    stocks, the first being risk and reward.
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4427,7 +4444,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 483
   indentLevel: 0
-  storyText: "Timing is about when to buy and when to sell the stocks\r."
+  storyText: The second being diversification in your investments. By diversifying
+    your stock portfolio, you are less vulnerable to downward impacts on your portfolio
+    since your portfolio is spread across many stocks.
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4454,7 +4473,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 482
   indentLevel: 0
-  storyText: Judging is about analysing the current financial policies in the country.
+  storyText: "GICs are very low risk and low reward since they always guarantee you
+    a small but positive return on investment. Stocks are much higher risk and higher
+    reward- you could earn a lot of money or lose it all!\r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4481,7 +4502,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 484
   indentLevel: 0
-  storyText: "Ultimately, it is up to you to take the risk or not\r.\n"
+  storyText: "On the other hand, GICs have no diversification and are essentially
+    you loaning your money to the bank.\r"
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4582,7 +4604,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1610.9812
     y: 137.4675
-    width: 141.42853
+    width: 136.84207
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5044,7 +5066,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1361.3677
     y: -53.874496
-    width: 168.57138
+    width: 165.78943
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5321,6 +5343,229 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
+--- !u!114 &350809333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 537
+  indentLevel: 0
+  storyText: Take it easy, Dr. Moneybags!
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 536
+  indentLevel: 0
+  storyText: Thank you very much for this information.
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 5c6c4682d76230d4f9b77516f770ae84, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 535
+  indentLevel: 0
+  storyText: "However, GICs are often set for a fixed time period, meaning you won\u2019t
+    be able to withdraw from it before the set date.\r"
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 534
+  indentLevel: 0
+  storyText: "With stocks, you can withdraw any time you want, although it\u2019s
+    recommended you hold onto stocks for a long time for best returns. "
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 533
+  indentLevel: 0
+  storyText: How long should I wait before withdrawing money from either investment
+    sources?
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 5c6c4682d76230d4f9b77516f770ae84, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 532
+  indentLevel: 0
+  storyText: "You want to put money you can\u2019t risk losing into GICs, while cutting
+    out unnecessary entertainment costs and putting the money saved into stocks.\r"
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 531
+  indentLevel: 0
+  storyText: 'The best way to approach saving for a wealthy retirement is a mix of
+    both.
+
+'
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 530
+  indentLevel: 0
+  storyText: I see. Would you recommend me going all in on stocks or GICs?
+  description: 
+  character: {fileID: 626811788}
+  portrait: {fileID: 21300000, guid: 5c6c4682d76230d4f9b77516f770ae84, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &503377594
 GameObject:
   m_ObjectHideFlags: 0
