@@ -1108,7 +1108,6 @@ GameObject:
   - component: {fileID: 350808997}
   - component: {fileID: 350808998}
   - component: {fileID: 350809008}
-  - component: {fileID: 350809025}
   - component: {fileID: 350809028}
   - component: {fileID: 350809029}
   - component: {fileID: 350809043}
@@ -1153,7 +1152,6 @@ GameObject:
   - component: {fileID: 350809138}
   - component: {fileID: 350809137}
   - component: {fileID: 350809136}
-  - component: {fileID: 350809134}
   - component: {fileID: 350809133}
   - component: {fileID: 350809131}
   - component: {fileID: 350809130}
@@ -1176,7 +1174,6 @@ GameObject:
   - component: {fileID: 350809169}
   - component: {fileID: 350809168}
   - component: {fileID: 350809167}
-  - component: {fileID: 350809149}
   - component: {fileID: 350809154}
   - component: {fileID: 350809184}
   - component: {fileID: 350809187}
@@ -1281,9 +1278,6 @@ GameObject:
   - component: {fileID: 350809318}
   - component: {fileID: 350809319}
   - component: {fileID: 350809317}
-  - component: {fileID: 350809323}
-  - component: {fileID: 350809322}
-  - component: {fileID: 350809324}
   - component: {fileID: 350809325}
   - component: {fileID: 350809328}
   - component: {fileID: 350809327}
@@ -1368,7 +1362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 463.30234, y: 26.73597}
+  scrollPos: {x: 203.34183, y: 225.52515}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
@@ -1379,10 +1373,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 350808988}
-  selectedCommands:
-  - {fileID: 350809066}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -1840,34 +1832,8 @@ MonoBehaviour:
   - {fileID: 350809101}
   - {fileID: 350809100}
   - {fileID: 350809096}
-  - {fileID: 350809025}
   - {fileID: 350809095}
   suppressAllAutoSelections: 0
---- !u!114 &350809025
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 48
-  indentLevel: 0
-  text: Review Beatrice's financial report
-  description: 
-  targetBlock: {fileID: 350809086}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
 --- !u!114 &350809028
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2106,7 +2072,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809057
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2185,7 +2151,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809082
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2514,7 +2480,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809102
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2585,7 +2551,6 @@ MonoBehaviour:
   - {fileID: 350809107}
   - {fileID: 350809106}
   - {fileID: 350809105}
-  - {fileID: 350809324}
   suppressAllAutoSelections: 0
 --- !u!114 &350809105
 MonoBehaviour:
@@ -2678,7 +2643,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809112
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2989,31 +2954,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &350809134
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 194
-  indentLevel: 0
-  text: Review Beatrice's financial report
-  description: 
-  targetBlock: {fileID: 350809130}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
 --- !u!114 &350809136
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3050,7 +2990,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809138
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3100,7 +3040,6 @@ MonoBehaviour:
   - {fileID: 350809137}
   - {fileID: 350809136}
   - {fileID: 350809131}
-  - {fileID: 350809134}
   - {fileID: 350809133}
   suppressAllAutoSelections: 0
 --- !u!114 &350809146
@@ -3132,7 +3071,6 @@ MonoBehaviour:
   - {fileID: 350809173}
   - {fileID: 350809172}
   - {fileID: 350809252}
-  - {fileID: 350809149}
   - {fileID: 350809147}
   suppressAllAutoSelections: 0
 --- !u!114 &350809147
@@ -3152,31 +3090,6 @@ MonoBehaviour:
   text: Back to Options
   description: 
   targetBlock: {fileID: 350809104}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
---- !u!114 &350809149
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 315
-  indentLevel: 0
-  text: Review Beatrice's financial report
-  description: 
-  targetBlock: {fileID: 350809166}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -3514,7 +3427,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809174
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -3964,7 +3877,7 @@ MonoBehaviour:
   indentLevel: 0
   images:
   - {fileID: 1454637844}
-  sprite: {fileID: 21300000, guid: 066d85cbb2064ac40a270ef9f1419a33, type: 3}
+  sprite: {fileID: 21300000, guid: 9e746a2e392df7a4ba1986cb1050db89, type: 3}
 --- !u!114 &350809222
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -4606,7 +4519,7 @@ MonoBehaviour:
   storyText: No worries. Take care.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5284,7 +5197,7 @@ MonoBehaviour:
     your monthly mortgage.
   description: 
   character: {fileID: 1555817353}
-  portrait: {fileID: 21300000, guid: 2df2f0e5bf2570d499ee28901afc7e46, type: 3}
+  portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5741,7 +5654,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: RatRace_Month03
+    stringVal: V3_Month03
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &350809299
@@ -5787,7 +5700,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Next Level
   description: 
-  targetBlock: {fileID: 350809323}
+  targetBlock: {fileID: 350809299}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -5812,7 +5725,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Next Level
   description: 
-  targetBlock: {fileID: 350809323}
+  targetBlock: {fileID: 350809299}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -5837,7 +5750,7 @@ MonoBehaviour:
   indentLevel: 0
   text: Next Level
   description: 
-  targetBlock: {fileID: 350809323}
+  targetBlock: {fileID: 350809299}
   hideIfVisited: 0
   interactable:
     booleanRef: {fileID: 0}
@@ -6179,85 +6092,6 @@ MonoBehaviour:
   volume: 0
   fadeDuration: 1
   waitUntilFinished: 1
---- !u!114 &350809322
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 522
-  indentLevel: 0
-  storyText: Thank you for playing
-  description: 
-  character: {fileID: 1395828145}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &350809323
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nodeRect:
-    serializedVersion: 2
-    x: 1553.5552
-    y: 75.14049
-    width: 165.78943
-    height: 40
-  tint: {r: 1, g: 1, b: 1, a: 1}
-  useCustomTint: 0
-  itemId: 521
-  blockName: Finish Game For Now
-  description: 
-  eventHandler: {fileID: 0}
-  commandList:
-  - {fileID: 350809322}
-  suppressAllAutoSelections: 0
---- !u!114 &350809324
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 350808976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 523
-  indentLevel: 0
-  text: Review Newscast
-  description: 
-  targetBlock: {fileID: 350808978}
-  hideIfVisited: 0
-  interactable:
-    booleanRef: {fileID: 0}
-    booleanVal: 1
-  setMenuDialog: {fileID: 0}
-  hideThisOption:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
 --- !u!114 &350809325
 MonoBehaviour:
   m_ObjectHideFlags: 2
