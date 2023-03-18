@@ -1321,10 +1321,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 196.1548, y: 392.0663}
+  scrollPos: {x: 107.99686, y: 399.9611}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 557
+  blockViewHeight: 592
   zoom: 0.7600002
   scrollViewRect:
     serializedVersion: 2
@@ -1333,8 +1333,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350809323}
-  selectedCommands: []
+  - {fileID: 350809114}
+  selectedCommands:
+  - {fileID: 350809224}
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -5345,7 +5346,7 @@ MonoBehaviour:
     booleanVal: 0
 --- !u!114 &350809333
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5372,7 +5373,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809334
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5399,7 +5400,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809335
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5427,7 +5428,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809336
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5455,7 +5456,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809337
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5483,7 +5484,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809338
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5511,7 +5512,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809339
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -5541,7 +5542,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &350809340
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
