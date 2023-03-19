@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ProjectMain/Scenes/GameScenes/V2_WithMusic/RatRace_Month01.unity
-    guid: dc42d9d451b54704aae85a1985343431
+    path: Assets/ProjectMain/Scenes/GameScenes/V3_FunctionButton/V3_Month01.unity
+    guid: e9935992626f0bc4e85968cf117f6361
   - enabled: 1
-    path: Assets/ProjectMain/Scenes/GameScenes/V2_WithMusic/RatRace_Month02.unity
-    guid: c897dceda96a8de45bcc7674142bbd82
-  - enabled: 0
-    path: Assets/ProjectMain/Scenes/GameScenes/V1_NoMusic/RatRace_Month03.unity
-    guid: 8ce0dfbe548dedb44b2fba1997030b01
+    path: Assets/ProjectMain/Scenes/GameScenes/V3_FunctionButton/V3_Month02.unity
+    guid: c503933971cca0b4a880e789bd25eee8
+  - enabled: 1
+    path: Assets/ProjectMain/Scenes/GameScenes/V3_FunctionButton/V3_Month03.unity
+    guid: 032e4b143332ac54f86cca9ac0cd47d8
   m_configObjects: {}
