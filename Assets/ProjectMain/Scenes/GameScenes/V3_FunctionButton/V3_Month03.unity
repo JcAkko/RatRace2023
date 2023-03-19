@@ -1651,6 +1651,7 @@ GameObject:
   - component: {fileID: 350809345}
   - component: {fileID: 350809342}
   - component: {fileID: 350809351}
+  - component: {fileID: 350809352}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1714,7 +1715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -56.838493, y: 231.39651}
+  scrollPos: {x: -119.60445, y: 227.1412}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 592
@@ -1726,9 +1727,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350809104}
+  - {fileID: 350809281}
   selectedCommands:
-  - {fileID: 350809106}
+  - {fileID: 350809352}
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -4738,6 +4739,7 @@ MonoBehaviour:
   - {fileID: 350809282}
   - {fileID: 350809284}
   - {fileID: 350809283}
+  - {fileID: 350809352}
   - {fileID: 350809285}
   - {fileID: 350809340}
   - {fileID: 350809339}
@@ -4792,9 +4794,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 483
   indentLevel: 0
-  storyText: The second being diversification in your investments. By diversifying
-    your stock portfolio, you are less vulnerable to downward impacts on your portfolio
-    since your portfolio is spread across many stocks.
+  storyText: 'The second being diversification in your investments. By diversifying
+    your stock portfolio, '
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -6286,6 +6287,34 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &350809352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 549
+  indentLevel: 0
+  storyText: you are less vulnerable to downward impacts on your portfolio since
+    your portfolio is spread across many stocks.
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &381100111
 GameObject:
   m_ObjectHideFlags: 0
