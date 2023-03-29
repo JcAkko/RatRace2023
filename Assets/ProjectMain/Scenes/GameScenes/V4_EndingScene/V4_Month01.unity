@@ -6535,7 +6535,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: Aukai
   nameColor: {r: 0, g: 0.033706184, b: 0.8396226, a: 1}
-  soundEffect: {fileID: 8300000, guid: c4f4654a1c867e541b4cdc6c00a13d6d, type: 3}
+  soundEffect: {fileID: 0}
   portraits:
   - {fileID: 21300000, guid: f3227543c072fb246993600723cba17c, type: 3}
   portraitsFace: 0
@@ -7327,7 +7327,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: Coco
   nameColor: {r: 0.8392157, g: 0, b: 0.03156575, a: 1}
-  soundEffect: {fileID: 8300000, guid: 99f8095cdfa8ffe499e0cd98b547eb50, type: 3}
+  soundEffect: {fileID: 0}
   portraits:
   - {fileID: 0}
   portraitsFace: 0
@@ -9791,7 +9791,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: You
   nameColor: {r: 0.43164828, g: 0.6194457, b: 0.9433962, a: 1}
-  soundEffect: {fileID: 8300000, guid: 861168164824f2a42b509af1bbed675a, type: 3}
+  soundEffect: {fileID: 0}
   portraits:
   - {fileID: 0}
   portraitsFace: 0
