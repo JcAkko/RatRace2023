@@ -1661,7 +1661,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 116065017}
   m_HandleRect: {fileID: 116065016}
   m_Direction: 0
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -1937,6 +1937,9 @@ GameObject:
   - component: {fileID: 350809360}
   - component: {fileID: 350809359}
   - component: {fileID: 350809361}
+  - component: {fileID: 350809362}
+  - component: {fileID: 350809363}
+  - component: {fileID: 350809364}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -2005,7 +2008,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 690.10443, y: 217.12306}
+  scrollPos: {x: -35.36535, y: 188.72893}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 557
@@ -2017,8 +2020,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350808978}
-  selectedCommands: []
+  - {fileID: 350809146}
+  selectedCommands:
+  - {fileID: 350809364}
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -2479,6 +2483,7 @@ MonoBehaviour:
   - {fileID: 350809101}
   - {fileID: 350809100}
   - {fileID: 350809096}
+  - {fileID: 350809363}
   - {fileID: 350809095}
   suppressAllAutoSelections: 0
 --- !u!114 &350809028
@@ -3692,6 +3697,7 @@ MonoBehaviour:
   - {fileID: 350809137}
   - {fileID: 350809136}
   - {fileID: 350809131}
+  - {fileID: 350809362}
   - {fileID: 350809133}
   suppressAllAutoSelections: 0
 --- !u!114 &350809146
@@ -3724,6 +3730,7 @@ MonoBehaviour:
   - {fileID: 350809173}
   - {fileID: 350809172}
   - {fileID: 350809252}
+  - {fileID: 350809364}
   - {fileID: 350809147}
   suppressAllAutoSelections: 0
 --- !u!114 &350809147
@@ -7713,7 +7720,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &350809357
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7730,7 +7737,7 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 965a6fa954e8274419bc05dc5d09ba24, type: 3}
 --- !u!114 &350809358
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7751,7 +7758,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &350809359
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7768,7 +7775,7 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: bf89be400b052bc45ae15012262c74f3, type: 3}
 --- !u!114 &350809360
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7789,7 +7796,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &350809361
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -7802,6 +7809,81 @@ MonoBehaviour:
   parentBlock: {fileID: 350808978}
   suppressBlockAutoSelect: 0
   waitForFrames: 1
+--- !u!114 &350809362
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 558
+  indentLevel: 0
+  text: Confirm Choice
+  description: 
+  targetBlock: {fileID: 350809227}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809363
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 559
+  indentLevel: 0
+  text: Confirm Choice
+  description: 
+  targetBlock: {fileID: 350809114}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809364
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 560
+  indentLevel: 0
+  text: Confirm Choice
+  description: 
+  targetBlock: {fileID: 350809229}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
 --- !u!1 &396547657
 GameObject:
   m_ObjectHideFlags: 0
@@ -11962,7 +12044,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 14.299999, y: 0}
+  m_AnchoredPosition: {x: 0.000011444092, y: 0}
   m_SizeDelta: {x: -14.299988, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1535100609

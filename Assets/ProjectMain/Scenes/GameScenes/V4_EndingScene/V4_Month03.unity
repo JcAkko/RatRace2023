@@ -1659,6 +1659,11 @@ GameObject:
   - component: {fileID: 350809359}
   - component: {fileID: 350809358}
   - component: {fileID: 350809360}
+  - component: {fileID: 350809361}
+  - component: {fileID: 350809362}
+  - component: {fileID: 350809364}
+  - component: {fileID: 350809363}
+  - component: {fileID: 350809365}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1682,7 +1687,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -167.28862
     y: 76.02843
-    width: 82.89473
+    width: 81.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1723,11 +1728,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 53.241676, y: 293.98636}
+  scrollPos: {x: -154.41936, y: 231.77032}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 592
-  zoom: 0.7600002
+  zoom: 0.8800001
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1735,8 +1740,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 350809139}
-  selectedCommands: []
+  - {fileID: 350809008}
+  selectedCommands:
+  - {fileID: 350809365}
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -1973,7 +1979,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -82.445885
     y: 185.82059
-    width: 82.89473
+    width: 85.227264
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2099,7 +2105,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 221.7525
     y: 188.35988
-    width: 130.26312
+    width: 135.22726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2179,7 +2185,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 594.0416
     y: -200.25926
-    width: 84.21052
+    width: 86.36363
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2193,6 +2199,7 @@ MonoBehaviour:
   - {fileID: 350809101}
   - {fileID: 350809100}
   - {fileID: 350809096}
+  - {fileID: 350809365}
   - {fileID: 350809095}
   suppressAllAutoSelections: 0
 --- !u!114 &350809028
@@ -2478,7 +2485,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 688.1564
     y: -298.11057
-    width: 134.21051
+    width: 136.36362
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2598,7 +2605,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 849.7739
     y: -252.0735
-    width: 123.68419
+    width: 127.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2609,6 +2616,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 350809347}
   - {fileID: 350809093}
+  - {fileID: 350809362}
   - {fileID: 350809113}
   - {fileID: 350809112}
   - {fileID: 350809264}
@@ -2785,7 +2793,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 428.01544
     y: -73.35336
-    width: 94.73683
+    width: 95.454544
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2938,7 +2946,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1076.489
     y: -179.55096
-    width: 98.6842
+    width: 99.99999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3113,7 +3121,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 646.24457
     y: -153.14465
-    width: 149.99997
+    width: 153.40909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3250,7 +3258,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 651.24054
     y: -61.462753
-    width: 140.78944
+    width: 143.18181
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3264,6 +3272,7 @@ MonoBehaviour:
   - {fileID: 350809137}
   - {fileID: 350809136}
   - {fileID: 350809131}
+  - {fileID: 350809363}
   - {fileID: 350809133}
   suppressAllAutoSelections: 0
 --- !u!114 &350809146
@@ -3282,7 +3291,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 618.3893
     y: 99.85769
-    width: 99.999985
+    width: 102.27272
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3296,6 +3305,7 @@ MonoBehaviour:
   - {fileID: 350809173}
   - {fileID: 350809172}
   - {fileID: 350809252}
+  - {fileID: 350809364}
   - {fileID: 350809147}
   suppressAllAutoSelections: 0
 --- !u!114 &350809147
@@ -3339,7 +3349,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 885.9724
     y: 54.627945
-    width: 124.99998
+    width: 129.54544
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3509,7 +3519,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 596.79926
     y: 26.811258
-    width: 151.31577
+    width: 154.54544
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3868,8 +3878,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1109.9609
-    y: -63.81099
-    width: 98.6842
+    y: -62.38242
+    width: 101.13635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3935,7 +3945,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1096.6796
     y: 63.226837
-    width: 102.63156
+    width: 105.68181
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4164,7 +4174,8 @@ MonoBehaviour:
   itemId: 429
   indentLevel: 0
   storyText: Mo invested a lot time studying financial product trading and after
-    a few years of practice he is able to generate an average 10% income each year.
+    a few years of practice he is able to generate an average of 10% income each
+    year.
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -4733,7 +4744,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 887.4197
     y: -80.522606
-    width: 123.68419
+    width: 128.40909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4751,6 +4762,7 @@ MonoBehaviour:
   - {fileID: 350809272}
   - {fileID: 350809282}
   - {fileID: 350809284}
+  - {fileID: 350809361}
   - {fileID: 350809283}
   - {fileID: 350809352}
   - {fileID: 350809285}
@@ -4835,9 +4847,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 482
   indentLevel: 0
-  storyText: "GICs are very low risk and low reward since they always guarantee you
-    a small but positive return on investment. Stocks are much higher risk and higher
-    reward- you could earn a lot of money or lose it all!\r"
+  storyText: 'GICs are very low risk and low reward since they always guarantee you
+    a small but positive return on investment. '
   description: 
   character: {fileID: 1555817353}
   portrait: {fileID: 0}
@@ -4966,7 +4977,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1610.9812
     y: 137.4675
-    width: 136.84207
+    width: 138.63635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5413,7 +5424,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1361.3677
     y: -53.874496
-    width: 165.78943
+    width: 170.45453
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6463,6 +6474,137 @@ MonoBehaviour:
   parentBlock: {fileID: 350808978}
   suppressBlockAutoSelect: 0
   waitForFrames: 1
+--- !u!114 &350809361
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 558
+  indentLevel: 0
+  storyText: "Stocks are much higher risk and higher reward- you could earn a lot
+    of money or lose it all!\r"
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809362
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 559
+  indentLevel: 0
+  storyText: "If you watched today\u2019s newscast, the interest rate is rising,
+    meaning that housing should become less expensive."
+  description: 
+  character: {fileID: 1555817353}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &350809363
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 561
+  indentLevel: 0
+  text: Confirm Choice
+  description: 
+  targetBlock: {fileID: 350809227}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809364
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 560
+  indentLevel: 0
+  text: Confirm Choice
+  description: 
+  targetBlock: {fileID: 350809229}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &350809365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 562
+  indentLevel: 0
+  text: Confirm Choice
+  description: 
+  targetBlock: {fileID: 350809114}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
 --- !u!1 &381100111
 GameObject:
   m_ObjectHideFlags: 0
