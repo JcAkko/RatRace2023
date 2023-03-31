@@ -1664,6 +1664,7 @@ GameObject:
   - component: {fileID: 350809364}
   - component: {fileID: 350809363}
   - component: {fileID: 350809365}
+  - component: {fileID: 350809366}
   m_Layer: 0
   m_Name: Flowchart_Main
   m_TagString: Untagged
@@ -1687,7 +1688,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -167.28862
     y: 76.02843
-    width: 81.81818
+    width: 82.8358
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1728,21 +1729,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -154.41936, y: 231.77032}
+  scrollPos: {x: -503.4865, y: 242.98131}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 592
-  zoom: 0.8800001
+  zoom: 0.6700003
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 350809008}
-  selectedCommands:
-  - {fileID: 350809365}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 350809330}
   - {fileID: 350809329}
@@ -1979,7 +1978,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -82.445885
     y: 185.82059
-    width: 85.227264
+    width: 85.82088
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2105,7 +2104,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 221.7525
     y: 188.35988
-    width: 135.22726
+    width: 138.05966
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2185,7 +2184,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 594.0416
     y: -200.25926
-    width: 86.36363
+    width: 87.313416
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2485,7 +2484,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 688.1564
     y: -298.11057
-    width: 136.36362
+    width: 141.04474
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2605,7 +2604,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 849.7739
     y: -252.0735
-    width: 127.27272
+    width: 129.10443
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2793,7 +2792,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 428.01544
     y: -73.35336
-    width: 95.454544
+    width: 97.76117
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2946,7 +2945,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1076.489
     y: -179.55096
-    width: 99.99999
+    width: 103.73132
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3121,7 +3120,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 646.24457
     y: -153.14465
-    width: 153.40909
+    width: 158.95517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3258,7 +3257,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 651.24054
     y: -61.462753
-    width: 143.18181
+    width: 145.52234
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3291,7 +3290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 618.3893
     y: 99.85769
-    width: 102.27272
+    width: 102.238785
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3349,7 +3348,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 885.9724
     y: 54.627945
-    width: 129.54544
+    width: 130.59698
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3519,7 +3518,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 596.79926
     y: 26.811258
-    width: 154.54544
+    width: 158.95517
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3879,7 +3878,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1109.9609
     y: -62.38242
-    width: 101.13635
+    width: 105.223854
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3945,7 +3944,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1096.6796
     y: 63.226837
-    width: 105.68181
+    width: 108.20892
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4744,7 +4743,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 887.4197
     y: -80.522606
-    width: 128.40909
+    width: 130.59698
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4977,7 +4976,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1610.9812
     y: 137.4675
-    width: 138.63635
+    width: 144.02982
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5395,7 +5394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 522
   indentLevel: 0
-  storyText: Thank you for playing
+  storyText: Thank you for playing Rat Race by Bank of Sheridan
   description: 
   character: {fileID: 1395828145}
   portrait: {fileID: 0}
@@ -5424,7 +5423,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1361.3677
     y: -53.874496
-    width: 170.45453
+    width: 173.88054
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5434,6 +5433,7 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 350809322}
+  - {fileID: 350809366}
   suppressAllAutoSelections: 0
 --- !u!114 &350809325
 MonoBehaviour:
@@ -6582,7 +6582,7 @@ MonoBehaviour:
     booleanVal: 0
 --- !u!114 &350809365
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -6605,6 +6605,33 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
+--- !u!114 &350809366
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 350808976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 563
+  indentLevel: 0
+  storyText: 
+  description: 
+  character: {fileID: 1395828145}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &381100111
 GameObject:
   m_ObjectHideFlags: 0
