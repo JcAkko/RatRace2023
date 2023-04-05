@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ProjectMain/Scenes/GameScenes/V3_FunctionButton/V3_Month01.unity
-    guid: e9935992626f0bc4e85968cf117f6361
+    path: Assets/ProjectMain/Scenes/GameScenes/V4_EndingScene/V4_Month01.unity
+    guid: aac87d7c36170494489046bd0faa8fae
   - enabled: 1
-    path: Assets/ProjectMain/Scenes/GameScenes/V3_FunctionButton/V3_Month02.unity
-    guid: c503933971cca0b4a880e789bd25eee8
+    path: Assets/ProjectMain/Scenes/GameScenes/V4_EndingScene/V4_Month02.unity
+    guid: 399631e906a747a439ede44df7c4ef0f
   - enabled: 1
-    path: Assets/ProjectMain/Scenes/GameScenes/V3_FunctionButton/V3_Month03.unity
-    guid: 032e4b143332ac54f86cca9ac0cd47d8
+    path: Assets/ProjectMain/Scenes/GameScenes/V4_EndingScene/V4_Month03.unity
+    guid: 487f6aee5ca2c904b9244d207ad4fa20
+  - enabled: 1
+    path: Assets/ProjectMain/Scenes/GameScenes/V4_EndingScene/V4_Credits.unity
+    guid: c2db6195920a48944bfc836b77999803
   m_configObjects: {}
