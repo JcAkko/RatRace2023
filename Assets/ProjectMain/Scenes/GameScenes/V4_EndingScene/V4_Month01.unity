@@ -1373,8 +1373,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 350808978}
+  selectedCommands:
+  - {fileID: 350809038}
   variables:
   - {fileID: 350809277}
   - {fileID: 350809276}
@@ -1476,7 +1478,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 667680956}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 8300000, guid: 99f8095cdfa8ffe499e0cd98b547eb50, type: 3}
+  voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -1959,7 +1961,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -4.369673
-    y: -58.232166
+    y: -60.050346
     width: 124.545395
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -8809,8 +8811,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1333588511}
   m_HandleRect: {fileID: 1333588510}
   m_Direction: 2
-  m_Value: 0.99999976
-  m_Size: 0.57362145
+  m_Value: 1
+  m_Size: 0.5736215
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
